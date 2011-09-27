@@ -4,6 +4,7 @@
  * @subpackage Default_Theme
  */
 
+
 add_editor_style("editor_style.css");
 
 /*
@@ -23,7 +24,7 @@ if (is_admin ()) {
 }
 
 
-set_post_thumbnail_size(940, 320);
+set_post_thumbnail_size(940, 240);
 
 /*
  * Media sizes for applications icons
@@ -45,7 +46,7 @@ add_image_size( 'thumbnail-small', 120, 80, false);
 
 add_action( 'init', function() {
     
-    register_post_type( 'banner',
+    register_post_type( 'banners',
         array(
             'labels' => array(
                 'name' => 'Banners',
@@ -62,12 +63,12 @@ add_action( 'init', function() {
                 'not_found_in_trash' => 'No banners found in Trash',
                 'parent' => 'Parent Banner',
             ),
-            'public' => false,
+            'public' => true,
             'exclude_from_search' => true,
             'supports' => array(
                 'title', 'thumbnail', 'excerpt', 'revisions', 'author'
             ),
-            'rewrite' => false
+            'rewrite' => true
         )
     );
     

@@ -16,34 +16,42 @@ add_action('wp_head', function() {
 
 require_once("header.php"); ?>
 
-    <?php
-    
-    $temp_query = clone $wp_query;
-    
-    query_posts(array('post_type' => 'banner', 'posts_per_page' => 1));
-    
-    ?>
-
-    <!-- home banner -->
-    <div id="home_banner">
-        <?php
-        while ( have_posts() ) : the_post();
-        $home_link = get_post_meta($post->ID, 'link', true);
-        if($home_link != '') { echo '<a href="'.$home_link.'">'; }
-        the_post_thumbnail(array(940, 320), array('alt' => get_the_excerpt($post->ID), 'title' => get_the_title($post->ID)));
-        if($home_link != '') { echo '</a>'; }
-        endwhile;
-        ?>
-    </div>
-    
-    <?php
-    $wp_query = clone $temp_query;
-    ?>
-
     <!-- container -->
     <div id="container" class="two_columns">
 
         <div class="container_12">
+            
+            <div class="grid_12">
+            
+            <?php
+            
+            $temp_query = clone $wp_query;
+            
+            query_posts(array('post_type' => 'banners', 'posts_per_page' => 1));
+            
+            ?>
+
+            <!-- home banner -->
+            <div id="home_banner">
+                <?php
+                while ( have_posts() ) : the_post();
+                
+                $home_link = get_post_meta($post->ID, 'link', true);
+                if($home_link != '') { echo '<a href="'.$home_link.'">'; }
+                the_post_thumbnail(array(940, 240), array('alt' => get_the_excerpt($post->ID), 'title' => get_the_title($post->ID)));
+                if($home_link != '') { echo '</a>'; }
+                
+                ?>
+                <h2><?php the_title(); ?></h2>
+                <p class="main_feature"><?php the_excerpt(); ?></p>
+                <?php endwhile; ?>
+            </div>
+            
+            <?php
+            $wp_query = clone $temp_query;
+            ?>
+            
+            </div>
         
             <div class="grid_12">
             

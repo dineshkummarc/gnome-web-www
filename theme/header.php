@@ -1,5 +1,6 @@
 <?php
 
+
 if (function_exists('wppo_get_lang')) {
     $current_lang = str_replace('_', '-', strtolower(wppo_get_lang()));
     if (strpos($current_lang, '-') !== false) {
@@ -45,11 +46,13 @@ if (function_exists('wppo_get_lang')) {
     </div>
     
     <!-- global gnome.org domain bar -->
-    <div id="global_domain_bar">
-        <div>
-            <a href="/"><strong>GNOME</strong>.ORG</a>
+        <div id="global_domain_bar">
+            <div class="maxwidth">
+                <div class="tab">
+                    <a class="root" href="http://www.gnome.org/">GNOME.org</a>
+                </div>
+            </div>
         </div>
-    </div>
     
     
     <!-- header -->

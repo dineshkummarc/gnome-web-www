@@ -15,7 +15,7 @@ Description: The original theme for the GNOME Project website.
 /* ========================================================================== */
 
 html {
-    background: #fff url(images/html-bg.png) top repeat-x;
+    background: #fff url(images/html-bg.png) 0 10px repeat-x;
 }
 body {
     
@@ -37,6 +37,14 @@ a:visited {
 }
 .hidden {
     display: none;
+}
+.maxwidth {
+    width: 940px;
+    margin: 0 auto;
+}
+.sanewidth {
+    width: 780px;
+    margin: 0 auto;
 }
 
 
@@ -64,23 +72,46 @@ a:visited {
     background: #fff;
     height: 10px;
 }
-#global_domain_bar div {
-    max-width: 940px;
-    margin: 0 auto;
+#global_domain_bar .maxwidth {
+    position: relative;
 }
-#global_domain_bar a {
-    margin-right: 30px;
+
+/* Tab */
+
+#global_domain_bar .tab {
+    background: #fff;
+    position: absolute;
+    right: 0;
     float: right;
-    background: #fff url(images/favicon.png) 8px 7px no-repeat;
-    padding: 4px 12px 2px 26px;
-    color: #555753;
-    text-decoration: none;
+    padding: 6px 8px;
     font-size: 12px;
+    line-height: 16px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
+    -moz-box-shadow: 0 4px 2px -2px #8fb3d9;
+    -webkit-box-shadow: 0 4px 2px -2px #8fb3d9;
+    box-shadow: 0 4px 2px -2px #8fb3d9;
+    white-space: nowrap;
 }
-
+#global_domain_bar .tab a.root {
+    color: #555753 !important;
+    font-weight: bold;
+    text-decoration: none;
+    background: #fff url(images/favicon.png) 0 0 no-repeat;
+    padding-left: 18px;
+    border-right: 1px solid #ccc;
+    padding-right: 6px;
+    margin-right: 3px;
+}
+#global_domain_bar .tab a.root:last-child {
+    border-right: 0;
+    padding-right: 0;
+    margin-right: 0;
+}
+#global_domain_bar .tab a.root:hover {
+    text-decoration: underline;
+}
 
 
 /* Header */
@@ -613,6 +644,7 @@ dl.icon_list dt img {
     background: #ececec url(images/action_button-bg.png) center repeat-x;
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
+    border-radius: 15px;
     color: #2e3436;
     text-shadow: 0 1px 0 #fff;
     text-decoration: none;
@@ -622,6 +654,7 @@ dl.icon_list dt img {
     transition: background-position 100ms linear;
     -moz-box-shadow: inset 0 1px 0 #fff;
     -webkit-box-shadow: inset 0 1px 0 #fff;
+    box-shadow: inset 0 1px 0 #fff;
     outline: none;
 }
 .action_button:hover {

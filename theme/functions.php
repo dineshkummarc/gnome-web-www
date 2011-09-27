@@ -5,8 +5,6 @@
  */
 
 
-add_editor_style("editor_style.css");
-
 /*
  * Add support for custom menus and posts thumbnails
  */
@@ -16,14 +14,8 @@ add_theme_support( 'post-thumbnails');
 
 
 /*
- * Remove support for rich editor.
- * We don't want messy wysiwyg edits!
+ * Set default banner size
  */
-if (is_admin ()) {
-    add_filter ('user_can_richedit', create_function ('$a' ,'return false;') , 50);
-}
-
-
 set_post_thumbnail_size(940, 240);
 
 /*
@@ -296,4 +288,12 @@ if (array_key_exists('select-language', $_GET)) {
         require_once('footer_language-selector.php');
         die;
     }
+}
+
+/*
+ * Identify action for rendering only the footer elements
+ */
+if (array_key_exists('render-footer-menu', $_GET)) {
+    wp_nav_menu('menu=footer');
+    exit;
 }

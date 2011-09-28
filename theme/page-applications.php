@@ -30,6 +30,18 @@ require_once("header.php"); ?>
             
                 <?php the_content(); ?>
                 
+                <?php
+            
+                $original_query = clone $wp_query;
+                
+                $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+                get_query_var('page');
+                query_posts(array('post_type' => 'projects', 'meta_key' => 'is_featured', 'posts_per_page' => 10, 'paged' => $paged));
+                
+                if ( have_posts() ):
+                
+                ?>
+                
                 <hr class="top_shadow" />
                 
                 <div class="grid_3 alpha">
@@ -37,16 +49,6 @@ require_once("header.php"); ?>
                 </div>
                 
                 <div class="grid_9 omega">
-                    
-                    <?php
-                
-                    $original_query = clone $wp_query;
-                    
-                    $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
-                    get_query_var('page');
-                    query_posts(array('post_type' => 'projects', 'meta_key' => 'is_featured', 'posts_per_page' => 10, 'paged' => $paged));
-                    
-                    ?>
                     
                     <div class="applications_featured">
                         <?php while ( have_posts() ) : the_post(); ?>
@@ -119,6 +121,8 @@ require_once("header.php"); ?>
                     <?php endif; ?>
                     
                 </div>
+                
+                <?php endif; ?>
                 
             </div>
             <?php $footer_art = 'applications'; ?>

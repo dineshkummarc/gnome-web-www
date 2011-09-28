@@ -5,7 +5,19 @@
 #home_banner {
     /* background: url(../images/home/banner-shadow.png) bottom center no-repeat; */
     margin: 0 auto -20px;
-    padding-bottom: 59px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#home_banner h2 {
+    color: #000;
+    margin-bottom: 0;
+}
+#home_banner p.main_feature {
+    margin: 0;
+}
+#home_banner p {
+    margin: 0.4em 0;
+    font-size: 16px;
 }
 #home_banner a {
     display: block;
@@ -49,3 +61,4 @@
 .about_box p:last-child {
     margin-bottom: 0;
 }
+

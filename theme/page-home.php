@@ -47,13 +47,51 @@ require_once("header.php"); ?>
                 <?php endwhile; ?>
             </div>
             
+            <p style="text-align: center;">
+                <a class="action_button" href="http://library.gnome.org/misc/release-notes/3.2/">Read the Release Notes</a>
+                <a class="action_button" href="/gnome-3/">Discover GNOME 3</a>
+            </p>
+            
+            <hr class="bottom_shadow" />
+            
             <?php
             $wp_query = clone $temp_query;
             ?>
             
+            
             </div>
-        
+            
+            <div class="clear"></div>
+            
+            <div class="grid_12" style="margin-top: -20px; margin-bottom: -20px;">
+                
+                    <div class="grid_6 alpha">
+                        <h4>We make great software available to all.</h4>
+                        
+                        <p>GNOME is an international community dedicated to making
+                        great software that anyone can use, no matter what language
+                        they speak or their technical or physical abilities.</p>
+                        
+                        <p><a class="more" href="/about/">About the GNOME Project</a></p>
+                    </div>
+                    
+                    <div class="grid_6 omega">
+                        <h4>Make a donation and become a Friend of GNOME!</h4>
+                        <p>Your donation will ensure that GNOME continues to be a free and open source
+                        desktop by providing resources to developers, software and education for end
+                        users, and promotion for GNOME worldwide.</p>
+                        <p><a class="more" href="http://www.gnome.org/friends/">Become a friend of GNOME</a></p>
+                    </div>
+                    
+                    
+
+                    <div class="clear"></div>
+            
+            </div>
+            
             <div class="grid_12">
+                
+                <hr class="top_shadow" />
             
                 <?php
                 
@@ -62,8 +100,6 @@ require_once("header.php"); ?>
                 endwhile;
                 
                 ?>
-                
-                <hr class="bottom_shadow" />
                 
                 <div class="grid_8 alpha">
                     <h2 style="margin-top: 0;">Latest news</h2>
@@ -100,9 +136,9 @@ require_once("header.php"); ?>
                 <div class="grid_4 omega">
                     
                     <div class="about_box">
-                        <h4>We make great software available to all.</h4>
-                        <p>GNOME is an international community dedicated to making great software that anyone can use, no matter what language they speak or their technical or physical abilities.</p>
-                        <p><a class="more" href="/about/">About the GNOME Project</a></p>
+                        <h4>Get involved!</h4>
+                        <p>The GNOME Project is a diverse international community which involves hundreds of contributors, many of whom are volunteers. Anyone can contribute to the GNOME!</p>
+                        <p><a class="more" href="/get-involved/">Get involved</a></p>
                     </div>
                     
                     <div class="subtle_box" style="padding: 20px;">

@@ -16,7 +16,7 @@ add_theme_support( 'post-thumbnails');
 /*
  * Set default banner size
  */
-set_post_thumbnail_size(940, 240);
+set_post_thumbnail_size(940, 280);
 
 /*
  * Media sizes for applications icons

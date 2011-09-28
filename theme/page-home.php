@@ -38,7 +38,7 @@ require_once("header.php"); ?>
                 
                 $home_link = get_post_meta($post->ID, 'link', true);
                 if($home_link != '') { echo '<a href="'.$home_link.'">'; }
-                the_post_thumbnail(array(940, 240), array('alt' => get_the_excerpt($post->ID), 'title' => get_the_title($post->ID)));
+                the_post_thumbnail(array(940, 280), array('alt' => get_the_excerpt($post->ID), 'title' => get_the_title($post->ID)));
                 if($home_link != '') { echo '</a>'; }
                 
                 ?>

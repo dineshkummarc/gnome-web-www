@@ -128,7 +128,7 @@ require_once("header.php"); ?>
                         endwhile;
                         ?>
                         
-                        <p><a href="/news/" class="action_button">Older news...</a></p>
+                        <p><a href="/news/" class="action_button">News Archives</a></p>
                     </div>
                     
                 </div>

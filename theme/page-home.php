@@ -80,7 +80,7 @@ require_once("header.php"); ?>
                         <p>Your donation will ensure that GNOME continues to be a free and open source
                         desktop by providing resources to developers, software and education for end
                         users, and promotion for GNOME worldwide.</p>
-                        <p><a class="more" href="http://www.gnome.org/friends/">Become a friend of GNOME</a></p>
+                        <p><a class="more" href="http://www.gnome.org/friends/">Become a Friend of GNOME</a></p>
                     </div>
                     
                     

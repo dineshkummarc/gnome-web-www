@@ -44,6 +44,8 @@ if (function_exists('wppo_get_lang')) {
             <li><a href="#s" onclick="$('#s').focus(); return false;"><?php _e( 'Go to the search field', 'grass' ); ?></a></li>
         </ul>
     </div>
+
+    <?php include="http://www-old.gnome.org/friends/a11y-banner.php" ?>
     
     <!-- global gnome.org domain bar -->
         <div id="global_domain_bar">

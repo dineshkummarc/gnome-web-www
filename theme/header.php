@@ -45,7 +45,7 @@ if (function_exists('wppo_get_lang')) {
         </ul>
     </div>
 
-    <?php include="http://www-old.gnome.org/friends/a11y-banner.php" ?>
+<script type="text/javascript" src="http://www-old.gnome.org/friends/ruler/a11y-ruler.js">  </script>
     
     <!-- global gnome.org domain bar -->
         <div id="global_domain_bar">

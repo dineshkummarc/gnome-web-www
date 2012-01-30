@@ -31,6 +31,19 @@ if (function_exists('wppo_get_lang')) {
 
 <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/template.js"></script>
 <?php wp_head(); ?>
+
+<?php
+
+if (is_single()) {
+    $custom_css = get_post_meta($post->ID, 'custom_css', true);
+    if (!empty($custom_css)) {
+        echo '<style type="text/css">'."\n";
+        echo $custom_css."\n";
+        echo '</style>'."\n";
+    }
+}
+
+?>
 </head>
 
 

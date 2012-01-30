@@ -33,6 +33,7 @@ require_once("header.php"); ?>
                 <?php
                 
                 echo '<ul class="foundation_members_list">'."\n";
+                $antispam = array(".", "@");
                 foreach ($members as $member) {
                     $email = str_replace($antispam, " ", $member["email"]);
                     echo "    <li title=\"&lt;" . $email . "&gt; / " . "Last Renewed on " . $member['last_renewed_on'] . "\">" . $member['firstname'] . " " . $member['lastname'] . "</li>\n";

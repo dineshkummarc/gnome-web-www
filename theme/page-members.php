@@ -1,19 +1,17 @@
 <?php
 
 
-//if (false === ($members = get_transient('foundation_members_list'))) {
+if (false === ($members = get_transient('foundation_members_list'))) {
 
     $members_url = "http://foundation.gnome.org/membership/members.php?format=json";
 
     $members = json_decode(file_get_contents($members_url));
     
-    var_dump($members);
-    
     // keeps a 12-hour cache until another HTTP request
     // to get the members list
     set_transient('foundation_members_list', $members, 60*60*12);
     
-//}
+}
 
 
 
@@ -38,8 +36,8 @@ require_once("header.php"); ?>
                   echo '<ul class="foundation_members_list">'."\n";
                   $antispam = array(".", "@");
                   foreach ($members as $member) {
-                      $email = str_replace($antispam, " ", $member["email"]);
-                      echo "    <li title=\"&lt;" . $email . "&gt; / " . "Last Renewed on " . $member['last_renewed_on'] . "\">" . $member['firstname'] . " " . $member['lastname'] . "</li>\n";
+                      $email = str_replace($antispam, " ", $member->email);
+                      echo "    <li title=\"&lt;" . $email . "&gt; / " . "Last Renewed on " . $member->last_renewed_on . "\">" . $member->firstname . " " . $member->lastname . "</li>\n";
                   }
                   echo '</ul>'."\n";
                 }

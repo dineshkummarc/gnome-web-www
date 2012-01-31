@@ -34,7 +34,9 @@ if (function_exists('wppo_get_lang')) {
 
 <?php
 
-if (is_single()) {
+
+
+if (is_single() || is_page()) {
     $custom_css = get_post_meta($post->ID, 'custom_css', true);
     if (!empty($custom_css)) {
         echo '<style type="text/css">'."\n";

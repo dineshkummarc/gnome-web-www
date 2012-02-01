@@ -279,6 +279,33 @@ add_action('save_post', 'save_project_post');
 
 
 
+/*
+ * Add breadcrumb support for hierarchical pages
+ */
+
+function the_breadcrumb() {
+    
+    global $post;
+    $delimiter = '&raquo;';
+
+    if ( is_page() && $post->post_parent ) {
+        $parent_id  = $post->post_parent;
+        $breadcrumbs = array();
+        while ($parent_id) {
+            $page = get_page($parent_id);
+            $breadcrumbs[] = '<a href="' . get_permalink($page->ID) . '">' . get_the_title($page->ID) . '</a>';
+            $parent_id  = $page->post_parent;
+        }
+        $breadcrumbs = array_reverse($breadcrumbs);
+        foreach ($breadcrumbs as $crumb) {
+            echo $crumb . ' ' . $delimiter . ' ';
+        }
+
+    }
+    
+}
+
+
 
 /*
  * Identify Ajax Language Selector

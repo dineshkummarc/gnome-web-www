@@ -22,9 +22,7 @@ require_once("header.php"); ?>
     <div id="container" class="two_columns">
         <div class="container_12">
         
-            <div class="page_title">
-                <h1><?php the_title(); ?></h1>
-            </div>
+            <?php require_once('inc/page-title.php'); ?>
             
             <div class="content without_sidebar">
             <?php while ( have_posts() ) : the_post(); ?>

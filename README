@@ -1,13 +1,13 @@
-PLEASE READ BEFORE COMMITTING
+PLEASE READ BEFORE COMMITTING CHANGES TO WWW.GNOME.ORG
 
-The gnome-web-www's repository has currently two branches:
+The gnome-web-www's repository currently has two branches:
 
 - master (linked to www.gnome.org) 
 - wptest (linked to wptest.gnome.org)
 
 As you can see, each branch is linked to a git's hook that automatically
 updates a relevant GNOME website by grabbing the latest content from the
-above repositories.
+above repositories. Wptest exists as a testing bed for changes to be made at wgo.
 
 That said, if you want to test your changes before deploying them on the main wgo website,
 please commit them to the wptest branch first, but how can you do that? There are two ways to
@@ -18,8 +18,10 @@ handle that:
 
 The first command will directly clone the wptest branch itself, then you'll
 just have to edit something, commit it and push it with a simple git push. (i.e without
-specifying branch's name)
+specifying branch's name) From there, once your changes have been tested, by looking at the changes on wptest.gnome.org, and approved, you will need to add the changes to the master branch by:
+1. git checkout master
+2. git merge wptest
 
 The second command will clone the entire repository and switch you to the
 wptest branch, you can then move to edit files, commit, merge from master
-and push to the desidered branch.
+and push to the desired branch.

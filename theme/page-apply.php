@@ -52,8 +52,10 @@ if (array_key_exists('submit', $_POST)) {
             <?php require_once('inc/page-title.php'); ?>
             
             <div class="content without_sidebar">
-            
-                <?php the_content(); ?>
+                
+                <?php while ( have_posts() ) : the_post(); ?>
+                    <?php the_content(); ?>
+                <?php endwhile; // End the loop. Whew. ?>
                 
                 <hr class="top_shadow" />
 

@@ -2,45 +2,53 @@
 
 
 if (array_key_exists('submit', $_POST)) {
+
+    $errors = false;
     
     $full_name = trim(stripslashes($_POST['full_name']));
     $email = trim(stripslashes($_POST['email']));
     $obfuscated_email = str_replace("@", " AT ", $email);
+    $not_spam = $_POST['not_spam'];
+    
+    if ($not_spam != 'not spam') {
+        $errors = true;
+    }
     
     $summary = trim(stripslashes($_POST['summary']));
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
-    $formmail = "Contact Information\n" .
-                "-------------------\n\n" .
-                
-                "Full Name: " . $full_name . "\n".
-                "Email:     " . $obfuscated_email . "\n\n" .
-                
-                "Contribuitions Summary:\n" .
-                $summary . "\n\n" .
-                
-                "Foundation Previous Participation\n" .
-                $previous_participation . "\n\n" .
-                
-                "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]" .
-                
-                "If you have any questions, you can contact the Membership Committee by\n" .
-                "replying to this mail. Please note that it usually takes up to a week for an application to be fully processed.";
-
-    $headers = "From: GNOME Foundation Membership Committee Script <membership-committee@gnome.org>\n" .
-               "Cc: $email\n";
-   
-    $subject = "Application received from " . $full_name . " (" . $obfuscated_email . ")";
+    if (empty($full_name) || empty($email) || empty($summary)) {
+        $errors = true;
+    }
     
-    mail("membership-applications@gnome.org", $subject, $formmail, $headers);
+    if ($errors == false) {
+    
+        $formmail = "Contact Information\n" .
+                    "-------------------\n\n" .
+                    
+                    "Full Name: " . $full_name . "\n".
+                    "Email:     " . $obfuscated_email . "\n\n" .
+                    
+                    "Contribuitions Summary:\n" .
+                    $summary . "\n\n" .
+                    
+                    "Foundation Previous Participation\n" .
+                    $previous_participation . "\n\n" .
+                    
+                    "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]" .
+                    
+                    "If you have any questions, you can contact the Membership Committee by\n" .
+                    "replying to this mail. Please note that it usually takes up to a week for an application to be fully processed.";
 
+        $headers = "From: GNOME Foundation Membership Committee Script <membership-committee@gnome.org>\n" .
+                   "Cc: $email\n";
+       
+        $subject = "Application received from " . $full_name . " (" . $obfuscated_email . ")";
+        
+        mail("membership-applications@gnome.org", $subject, $formmail, $headers);
+
+    }
 }
-
-
-
-
-
-
 
 
 ?>

@@ -3,7 +3,7 @@
 
 if (false === ($members = get_transient('foundation_members_list'))) {
 
-    $members_url = "http://foundation.gnome.org/membership/members.php?format=json";
+    $members_url = "http://foundation-old.gnome.org/membership/members.php?format=json";
 
     $members = json_decode(file_get_contents($members_url));
     

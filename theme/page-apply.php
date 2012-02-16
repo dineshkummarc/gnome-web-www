@@ -165,11 +165,11 @@ if (array_key_exists('submit', $_POST)) {
                         <div class="item">
                             <p>
                                 Please list references to your contributions,
-                                i.e. BugZilla, Mailing Lists, commits or people to vouch for you. If
+                                i.e. Bugzilla, Mailing Lists, commits or people to vouch for you. If
                                 you are a new applicant, it's definitely a great plus putting
                                 the name of a few contacts within the community that could vouch for
-                                you and your work for the GNOME Foundation (existing Foundation
-                                members preferred).
+                                you and your work for the GNOME Foundation. (existing Foundation
+                                members preferred)
                             </p>
                             <textarea name="summary"></textarea>
                         </div>
@@ -180,7 +180,7 @@ if (array_key_exists('submit', $_POST)) {
                             <p>
                                 Please tell us whether you were an existing 
                                 Foundation member or have done someting relevant for the GNOME 
-                                Foundation in the past (i.e Board Member etc.)
+                                Foundation in the past. (for example, past Board Member)
                             </p>
                             <textarea name="previous_participation"></textarea>
                         </div>

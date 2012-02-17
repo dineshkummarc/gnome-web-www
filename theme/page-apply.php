@@ -70,7 +70,7 @@ if (array_key_exists('submit', $_POST)) {
                 <?php if ($application_submitted == true && $application_sent == true): ?>
                     
                     <h1 style="text-align: center">Thank you.</h1>
-                    <p class="main_feature" style="text-align: center;">Your application has been submitted and it'll be reviewed by the GNOME Foundation Membership Committee within two weeks.</p>
+                    <p class="main_feature" style="text-align: center;">Your application has been submitted and it'll be reviewed by the GNOME Foundation Membership Committee within two weeks. You can check the status of your application at the following <a href="http://www.gnome.org/rt3-stats/membership.html">page</a>.</p>
                 
                 <?php else: ?>
                 

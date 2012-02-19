@@ -23,7 +23,7 @@ require_once("header.php"); ?>
                             <p><?php
                             
                             printf(
-                                __( 'For now, you may want to go to the <a href="%1$s">home page</a> to start from beginning or try your luck in the search form bellow.', 'grass'),
+                                __( 'For now, you may want to go to the <a href="%1$s">home page</a> to start from beginning or try your luck in the search form below.', 'grass'),
                                 get_bloginfo('url')
                             );
                             
@@ -35,7 +35,7 @@ require_once("header.php"); ?>
                             <p><?php
                             
                             printf(
-                                __('If you think there is a bug in some link around GNOME website, please, we ask you to <a href="%1$s">report a bug</a>. Thank you.', 'grass'),
+                                __('If you think there is a broken link on the GNOME website, please <a href="%1$s">report it as a bug</a>. Thank you.', 'grass'),
                                 'https://bugzilla.gnome.org/enter_bug.cgi?product=website&component=www.gnome.org'
                             );
                             

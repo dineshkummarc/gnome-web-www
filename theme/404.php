@@ -23,7 +23,7 @@ require_once("header.php"); ?>
                             <p><?php
                             
                             printf(
-                                __( 'For now, you may want to go to the <a href="%1$s">home page</a> to start from beginning or try your luck in the search form below.', 'grass'),
+                                __( 'For now, you may want to go to the <a href="%1$s">home page</a> to start from the beginning, or try your luck in the search form below.', 'grass'),
                                 get_bloginfo('url')
                             );
                             

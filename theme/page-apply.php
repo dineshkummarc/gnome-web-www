@@ -31,7 +31,7 @@ if (array_key_exists('submit', $_POST)) {
                     "Full Name: " . $full_name . "\n".
                     "Email:     " . $obfuscated_email . "\n\n" .
                     
-                    "Contribuitions Summary:\n" .
+                    "Contributions Summary:\n" .
                     $summary . "\n\n" .
                     
                     "Foundation Previous Participation:\n" .

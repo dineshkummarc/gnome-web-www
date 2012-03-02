@@ -6,10 +6,15 @@
 
 
 $post_type = get_post_type();
+$post_category = get_the_category();
 
 if($post_type == 'post') {
 
-    require_once('news.php');
+    if($post_category->slug == 'quarterly-reports') {
+        require_once('one-column.php');
+    } else {
+        require_once('news.php');
+    }
 
 } elseif($post_type == 'projects') {
     

@@ -1,4 +1,17 @@
 $(document).ready(function() {
+
+    // Get browser  
+    $.each($.browser, function(i) {
+        $('body').addClass(i);
+        return false;  
+    });
+    
+    // Get OS
+    var match = navigator.userAgent.toLowerCase().match(/(win|mac|linux)/);
+    if (match) {
+        $('body').addClass(match[0]);
+    }
+
     
     /* Global search placeholder
      * ====================================================================== */

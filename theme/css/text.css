@@ -10,6 +10,14 @@ body {
     line-height: 1.6;
     color: #2e3436;
 }
+
+body.win {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #2e3436;
+}
+
 h1, h2, h3, h4, h5, h6, dt {
     color: #0489B7;
 }

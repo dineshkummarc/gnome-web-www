@@ -1,0 +1,1246 @@
+# French translation of gnome-web-www.
+# Copyright (C) 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-web-www package.
+#
+# Claude Paroz <claude@2xlibre.net>, 2012
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-web-www wptest\n"
+"POT-Creation-Date: 2012-03-11 22:18+0000\n"
+"PO-Revision-Date: 2012-03-12 10:54+0100\n"
+"Last-Translator: Claude Paroz <claude@2xlibre.net>\n"
+"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:4(bloginfo/name)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:21(post/title)
+msgid "The GNOME Project"
+msgstr "Le projet GNOME"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:8(terms/term)
+msgid "Uncategorized"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:9(terms/term)
+msgid "Blogroll"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:10(terms/term)
+msgid "globalnav"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:11(terms/term)
+msgid "footer"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:12(terms/term)
+msgid "Quarterly Reports"
+msgstr "Rapports trimestriels"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:13(terms/term)
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:14(terms/term)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:470(post/title)
+msgid "Press Releases"
+msgstr "Communiqués de presse"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:15(terms/term)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:419(post/title)
+msgid "News"
+msgstr "Nouveautés"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:16(terms/term)
+msgid "Accessories"
+msgstr "Accessoires"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:17(terms/term)
+msgid "Press Release"
+msgstr "Communiqué de presse"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:24(post/title)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:179(post/title)
+msgid "The GNOME Foundation"
+msgstr "La fondation GNOME"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:27(post/title)
+msgid "Resources"
+msgstr "Ressources"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:30(post/title)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:431(h2/a)
+msgid "Documentation"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:33(post/title)
+msgid "Wiki"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:36(post/title)
+msgid "Mailing Lists"
+msgstr "Listes de diffusion"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:39(post/title)
+msgid "IRC Channels"
+msgstr "Canaux IRC"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:42(post/title)
+msgid "Development Code"
+msgstr "Code source"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:45(post/title)
+msgid "Bug Tracker"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:48(post/title)
+msgid "Build Tool"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:51(post/title)
+msgid "Planet GNOME"
+msgstr "Planète GNOME"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:54(post/title)
+msgid "GNOME Journal"
+msgstr "Le journal GNOME"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:57(post/title)
+msgid "Development News"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:60(post/title)
+msgid "Identi.ca"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:63(post/title)
+msgid "Twitter"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:66(post/title)
+msgid "Latest Release"
+msgstr "Dernière version"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:69(post/title)
+msgid "Developer Center"
+msgstr "Centre des développeurs"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:72(post/title)
+msgid "Foundation"
+msgstr "Fondation"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:75(post/title)
+msgid "About Us"
+msgstr "À propos"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:79(post/title)
+msgid "GNOME 3"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:82(html/p)
+msgid "Get things done with ease, comfort and control."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:87(div/h2)
+msgid "Simply Beautiful"
+msgstr "Tout simplement merveilleux"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:88(div/p)
+msgid "GNOME’s new desktop takes elegance to a new level. We’ve swept away the clutter and made a simple and easy-to-use desktop, and we’ve made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:99(div/h2)
+msgid "An overview at a glance"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:100(div/p)
+msgid "The Activities Overview is the portal to all your computing activities. Quickly accessible using the top-left hot corner or windows key, it provides a single place to access windows, applications and even messages. The dash allows you to see which applications are currently running and the workspace switcher can be used to group windows."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:107(div/h2)
+msgid "Integrated messaging"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:108(div/p)
+msgid "GNOME 3 incorporates a unique, built-in messaging system. Messages can be directly responded to from notification popups, and you can access your previous communications from the Messaging Tray which is always available from the bottom of the screen. This means that holding a conversation does not require repeated window switching."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:111(strong/a)
+msgid "Fewer interruptions"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:111(li/span)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:123(li/span)
+msgid "Watch the video<_:br-1/><_:strong-2/>"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:119(div/h2)
+msgid "Everything at your fingertips"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:120(div/p)
+msgid "Search is central to the GNOME desktop. Applications, windows, documents and even settings can all be quickly and easily searched for from one place. Accessing GNOME’s desktop search is as simple as pressing the windows key and starting to type. This is a great feature for people who like things to happen fast."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:123(strong/a)
+msgid "Accessing Apps Quickly"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:131(div/h2)
+msgid "Redesigned system settings"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:132(div/p)
+msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. GNOME 3 also provides a new way to browse your settings, and our settings categories have been reorganised, making it quick and straightforward to find the setting that you want."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:141(html/h2)
+msgid "And much, much more"
+msgstr "Et bien plus encore"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:142(p/a)
+msgid "Find out how to get GNOME 3"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:147(post/title)
+msgid "Get Involved"
+msgstr "Contribuer"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:149(html/p)
+msgid "The GNOME Project is a diverse international community which involves hundreds of contributors, many of whom are volunteers. Anyone can contribute to the GNOME: the project involves a wide range of activities, not just programming."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:150(html/h2)
+msgid "So, what do you want to do?"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:151(html/h3)
+msgid "Write"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:152(html/p)
+msgid "Have good command of the English language? GNOME is always looking for writers, whether it is to create user and developer guides for our software, content for the GNOME websites, producing articles for the GNOME Journal, or just blogging (and microblogging!) about the great stuff that is always happening in GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:153(p/a)
+msgid "documentation"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:153(p/a)
+msgid "marketing"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:153(html/p)
+msgid "If you are interested in writing for GNOME, check out the <_:a-1/> and <_:a-2/> team pages."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:154(html/h3)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:429(h2/a)
+msgid "Design"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:155(html/p)
+msgid "Graphics and user interface design are an important part of the GNOME Project. You can help to design user interfaces and in so doing make GNOME software easy, satisfying and efficient to use. You can also assist our designers in the creation of icons, websites, clothing and other merchandise."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:156(p/a)
+msgid "design"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:156(p/a)
+msgid "Usability Project"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:156(html/p)
+msgid "See the GNOME <_:a-1/> and <_:a-2/> pages for more information."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:157(html/h3)
+msgid "Translate"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:158(html/p)
+msgid "The GNOME is proud to be available in many different languages, and this is a key part of our mission to make our software available to as many people as possible. If you have a good command of English and another language, you can participate in one of the many GNOME translation teams, so that GNOME’s software, documenatation and websites can be used by people from all over the world."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:159(p/a)
+msgid "GNOME Translation Project pages"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:159(html/p)
+msgid "See the <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:160(html/h3)
+msgid "Code"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:161(html/p)
+msgid "There are many coding tasks up for grabs in GNOME, both small and large. You don’t have to be an expert to start contributing code. GNOME software is written in many different languages, so it is easy to feel right at home, and we have some incredible programmers from whom you can learn."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:162(p/a)
+msgid "GNOME Love initiative"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:162(html/p)
+msgid "There are plenty of ways to get started programming for GNOME. The <_:a-1/> provides advice for newcomers."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:163(html/h3)
+msgid "Test"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:164(html/p)
+msgid "Making high quality software requires lots of testing. Reporting errors or possible improvements is a valuable way to help with the project and is a great way to start out. If you like living dangerously, you can also run our latest development code and help to provide feedback on changes as they happen."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:165(p/a)
+msgid "JHBuild, the GNOME build tool"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:165(html/p)
+msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:166(html/h3)
+msgid "Administrate"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:167(html/p)
+msgid "Have system administration skills? The GNOME Project hosts a range of different kinds of development infrastructure, all of which requires maintanence and development. The GNOME Sysadmin team is a great place to work and contains a great amount of expertise."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:168(p/a)
+msgid "GNOME sysadmin pages"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:168(html/p)
+msgid "See the <_:a-1/> for more information."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:169(html/h2)
+msgid "More information"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:171(li/a)
+msgid "teams page"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:171(ul/li)
+msgid "The <_:a-1/> provides further details on the range of activities involved in the GNOME Project as well as links to information on getting started."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:172(li/a)
+msgid "GNOME Love"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:172(ul/li)
+msgid "The <_:a-1/> initiative provides information and support for those wanting to become GNOME contributors."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:173(li/a)
+msgid "Google Summer of Code"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:173(ul/li)
+msgid "GNOME regularly participates in the <_:a-1/> internship program."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:182(div/p)
+msgid "The GNOME Foundation is an non-profit organization that furthers the goals of the GNOME Project, helping it to create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:193(div/h2)
+msgid "How it works"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:194(div/p)
+msgid "While the many GNOME contributors develop code, smash bugs, write documentation, and help users, the Foundation acts as a guiding hand in the process and provides resources and infrastructure. It steers releases, determines what software is officially part of the Project, and acts as the official face of the GNOME Project to the outside world, though it delegates most of its authority to specialized teams."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:195(p/a)
+msgid "GNOME Foundation membership"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:195(div/p)
+msgid "But that face, like the face of GNOME itself, is made by you. The <_:a-1/> is open to all GNOME contributors, and every member of the Board of Directors is a contributing member of the GNOME community. Becoming a member of the Foundation strengthens your voice in the Project and gives you an opportunity to vote on goals that will steer the GNOME Project into the future."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:196(p/a)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:542(p/a)
+msgid "Become a GNOME Foundation Member"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:200(html/h2)
+msgid "Sponsors"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:234(p/a)
+msgid "Wilson Sonsini Goodrich &amp; Rosati"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:234(p/a)
+msgid "Software Freedom Law Center"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:234(html/p)
+msgid "Pro bono legal services provided by <_:a-1/> and the <_:a-2/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:236(html/h2)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:412(li/a)
+msgid "Board of Directors"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:238(div/p)
+msgid "The GNOME Foundation is run by a Board of Directors, which is elected annually by the GNOME community, as the GNOME Membership, to carry out much of the GNOME Foundation’s tasks."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:239(p/a)
+msgid "foundation-list mailing list"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:239(p/a)
+msgid "Minutes wiki"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:239(div/p)
+msgid "The meetings of the Board of Directors are posted publicly on the <_:a-1/> and on the <_:a-2/> page for easier access."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:243(ul/li)
+msgid "<_:img-1/> Brian Cameron"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:244(ul/li)
+msgid "<_:img-1/> Emmanuele Bassi"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:245(ul/li)
+msgid "<_:img-1/> Ryan Lortie"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:246(ul/li)
+msgid "<_:img-1/> Shaun McCance"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:247(ul/li)
+msgid "<_:img-1/> Bastien Nocera"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:248(ul/li)
+msgid "<_:img-1/> Stormy Peters"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:249(ul/li)
+msgid "<_:img-1/> Germán Póo-Caamaño"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:257(post/title)
+msgid "Applications"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:259(html/p)
+msgid "Hundreds of applications are available for GNOME. They enable people to engage in a vast range of activities, including everything from playing media and editing photos to system administration. The vast majority are freely available. Here is some we want to highlight."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:263(h3/a)
+msgid "Banshee"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:264(div/p)
+msgid "Banshee media player allows you to play your music and videos. Stay entertained and up to date with podcasts and video podcasts. Sync your Android, iPod, and other devices."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:268(h3/a)
+msgid "Cheese"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:269(div/p)
+msgid "Cheese allows you to take photos and videos webcam.<_:br-1/> Gather all of your friends around, have some fun! When you’re done, share your photos and videos with ‘em!"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:276(h3/a)
+msgid "Inkscape"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:277(div/p)
+msgid "Draw freely! A vector illustration application. It allows you to produce stunning graphics in the web standard SVG format."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:281(h3/a)
+msgid "The GIMP"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:282(div/p)
+msgid "It can be used as a simple paint program, an expert quality photo retouching program, an online batch processing system, a mass production image renderer, an image format converter, etc."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:288(h3/a)
+msgid "Simple Scan"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:289(div/p)
+msgid "Stays out of your way and allows you to quickly scan both documents and photos. You can crop out the bad parts of a photo and turn it right if it’s upside down. Save to any image format, directly to pdf or print a copy."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:293(h3/a)
+msgid "Shotwell"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:294(div/p)
+msgid "Organize, edit and publish your photos. It’s easy to crop, sharpen and fix the colors on your photos. You can also set multiple photos to desktop background slideshow."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:300(h3/a)
+msgid "Tomboy"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:301(div/p)
+msgid "Tomboy is a note-taking application. Simple and easy to use, but with potential to help you organize the ideas and information you deal with every day."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:305(h3/a)
+msgid "Rhythmbox"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:306(div/p)
+msgid "Organize and listen to your music, rip CDs. Browse, preview, and download albums from Magnatune and Jamendo. Features Internet radio and last.fm. Has good support for mass storage music players."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:312(div/h2)
+msgid "Batteries included"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:313(div/p)
+msgid "GNOME 3 includes all the essential utilities you need, including a web browser,<_:br-1/> image viewer, movie player, text editor, calculator and more."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:323(post/title)
+msgid "Contact us"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:327(div/p)
+msgid "If you have a question or query that is not answered elsewhere on this website, you can contact us. We provide numerous means of contact, depending on your interest in GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:328(div/h2)
+msgid "User help"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:329(div/p)
+msgid "If you have a problem with GNOME software, it is recommended that you seek help through your distribution. The GNOME Project does provide a number of ways to get support using its software, however:"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:331(li/a)
+msgid "an extensive library of help documentation"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:331(ul/li)
+msgid "User documentation: the GNOME Project has <_:a-1/> written to help you use our software. You can view this online or use the built in GNOME help browser."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:332(li/a)
+msgid "our bug database"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:332(ul/li)
+msgid "Bug reporting: if you think that you are experiencing an error with our software, you can search and file reports in <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:333(li/a)
+msgid "IRC chat"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:333(li/a)
+msgid "email mailing lists"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:333(li/a)
+msgid "#gnome IRC channel"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:333(li/a)
+msgid "GNOME List mailing list"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:333(ul/li)
+msgid "Contact users, enthusiasts and developers: the GNOME Project provides several ways to make contact with users, enthusiasts and developers, including <_:a-1/> and <_:a-2/>. The <_:a-3/> and <_:a-4/> are the most general in scope: use these if you are unsure which list or channel to use."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:335(div/h2)
+msgid "Partner organisations, sponsors and legal matters"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:336(p/a)
+msgid "GNOME Foundation site"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:336(div/p)
+msgid "The GNOME Foundation serves as the interface between the GNOME Project and our partner companies and organisations. See the <_:a-1/> for further details."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:337(div/h2)
+msgid "Press"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:338(p/a)
+msgid "gnome-press-contact@gnome.org"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:338(div/p)
+msgid "Press queries should be sent to <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:339(div/h2)
+msgid "Website matters"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:340(p/a)
+msgid "GNOME Website Development list"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:340(div/p)
+msgid "If you have discovered a problem with the GNOME web-site, or wish to help improve our web-pages, you can email the <_:a-1/>"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:341(div/h2)
+msgid "Reporting security issues"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:342(p/a)
+msgid "security@gnome.org"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:342(div/p)
+msgid "Potential security issues should be reported to <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:348(post/title)
+msgid "Source"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:351(div/p)
+msgid "All the GNOME source code is centralized in the GNOME Git repository. Keep up with the latest changes, add features you want, or test your applications with the newest code."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:352(div/h2)
+msgid "Choose the right direction"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:353(p/a)
+msgid "install GNOME inside a distribution"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:353(div/p)
+msgid "While you can easily <_:a-1/>, in some cases you will prefer to enjoy the wild terminal screen and build GNOME from source. If you are a developer, programmer, scientist or interested somehow, you are in the right place."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:354(div/h2)
+msgid "Understanding the versioning scheme"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:355(p/strong)
+msgid "2.28.1"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:355(p/strong)
+msgid "2"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:355(p/strong)
+msgid "28"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:355(p/strong)
+msgid "1"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:355(div/p)
+msgid "GNOME’s versioning scheme uses three numbers: major, minor, and bug fixes. For a version number of <_:strong-1/>, <_:strong-2/> is the major version number, <_:strong-3/> is the minor version number, and <_:strong-4/> is the bug fix number. As a rule, stable versions have even minor numbers and development versions have odd minor numbers."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:356(p/strong)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:456(p/a)
+msgid "GNOME 3.0"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:356(div/p)
+msgid "GNOME releases a new stable version every six months, usually in March and September. If you want thoroughly tested software and a stable developer platform, the stable version is what you want. The current stable version is <_:strong-1/>, released in April 2011."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:357(p/a)
+msgid "GNOME 3.0 Release Notes"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:357(div/p)
+msgid "To get more information about GNOME 3.0, check out the <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:358(p/strong)
+msgid "development or ‘unstable’ branch"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:358(p/strong)
+msgid "GNOME 3.1"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:358(div/p)
+msgid "Between stable releases, the GNOME developers hack on the <_:strong-1/> of GNOME, where lots of fun happens, but also occasionally experimental and unstable things happen. If you are interested in testing the newest features, or want to develop GNOME software, this is the release for you. The current development branch is <_:strong-2/>, due for release in the last quarter of 2011."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:359(div/h2)
+msgid "Use a Build tool"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:360(p/a)
+msgid "JHBuild"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:360(div/p)
+msgid "<_:a-1/> is a tool developed and used to build the whole GNOME desktop from the Git source. It can also be used to build other projects creating a moduleset for it. Unlike some build scripts, JHBuild lets you specify what modules you want and it will build those modules including dependencies. We recommend using JHBuild to build GNOME from source."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:361(div/h2)
+msgid "Explore the Git modules"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:362(div/p)
+msgid "Git is a powerful method of allowing many developers to work on the same source code. It is used extensively within the GNOME project and often proves to be the first hurdle for new developers that are attracted to the GNOME project."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:363(p/a)
+msgid "Discover more about Git"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:363(p/a)
+msgid "Explore the GNOME source code online"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:363(div/p)
+msgid "<_:a-1/> or <_:a-2/>"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:365(div/a)
+msgid "why not join and help us"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:365(div/div)
+msgid "GNOME is a large, fun community, and we all work pretty hard to get this software out to our users. If you like GNOME, <_:a-1/>?"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:374(post/title)
+msgid "Advisory Board"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:376(html/p)
+msgid "The Advisory Board is made up of organizations and companies that support GNOME. The Advisory Board has no decision-making authority but provides a vehicle for its members to communicate with the Board of Directors and help the Directors guide the overall direction of GNOME and the GNOME Foundation. Get more details about the way the Advisory Board works."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:377(html/p)
+msgid "The Advisory Board consists of representatives from the following GNOME Foundation member corporations and projects:"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:378(html/p)
+msgid "* Canonical<_:br-1/> * Collabora<_:br-2/> * Debian Project<_:br-3/> * Free Software Foundation<_:br-4/> * Google<_:br-5/> * IBM<_:br-6/> * Igalia<_:br-7/> * Intel<_:br-8/> * LiMo Foundation<_:br-9/> * Motorola<_:br-10/> * Mozilla Foundation<_:br-11/> * Nokia<_:br-12/> * Novell<_:br-13/> * OLPC<_:br-14/> * Oracle<_:br-15/> * Red Hat<_:br-16/> * Software Freedom Law Center<_:br-17/> * Sugar Labs"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:396(html/p)
+msgid "Each Advisory Board member has up to three representatives. An up-to-date list of representatives is maintained on the Advisory Board wiki page."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:401(post/title)
+msgid "Support GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:403(html/p)
+msgid "GNOME relies on the support of individuals and companies. This enables us to organise events, pay for equipment, and have a small amount of staffing. The GNOME Foundation takes care of the project’s financial affairs."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:404(html/p)
+msgid "There are many ways that individuals and organisations can support GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:405(html/h2)
+msgid "Individuals"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:407(li/a)
+msgid "Friends of GNOME"
+msgstr "Amis de GNOME"
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:407(ul/li)
+msgid "The <_:a-1/> scheme allows regular or one time donations to the GNOME Foundation. The scheme includes great benefits for benefactors."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:408(li/a)
+msgid "the GNOME Store"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:408(ul/li)
+msgid "GNOME benefits from purchases of our merchandise, much of which is available through <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:410(html/h2)
+msgid "Companies and organisations"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:412(ul/li)
+msgid "Companies and organisations regularly support GNOME by sponsoring and supporting our conferences and hackfest events. If you would like to sponsor such an event, you can email the Foundation <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:413(li/a)
+msgid "GNOME Foundation Advisory Board"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:413(ul/li)
+msgid "The <_:a-1/> consists of partner companies and organisations wishing to participate in and support the GNOME Project."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:422(post/title)
+msgid "Teams"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:424(html/p)
+msgid "The GNOME Project includes a number of teams which work together on particular areas of responsibility. Membership is typically informal, and people are often members of more than one team."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:425(h2/a)
+msgid "Accessibility"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:426(html/p)
+msgid "The GNOME accessibility team works to ensure that the project’s software can be used by those with physical disabilities. Much of this work involves creating, maintaining and integrating specialist accessibility software."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:427(h2/a)
+msgid "Bug squad"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:428(html/p)
+msgid "GNOME’s Bug Squad manages the project’s issue tracker. Their work is essential to the smooth running of the project. Being a bug squadder is a great way to learn your way around GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:430(html/p)
+msgid "The design of GNOME’s desktop software is a key focus of this team, but it works on the design of GNOME’s websites, marketing materials and merchandise. The creation and development of GNOME’s icon sets is another major activity."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:432(html/p)
+msgid "GNOME software comes with extensive documentation both for users and developers. This documentation is created by the documentation team."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:433(h2/a)
+msgid "Marketing"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:434(html/p)
+msgid "GNOME marketing works to promote GNOME and helps to raise funds for the GNOME Foundation. This involves a range of varied tasks, including creating content for the GNOME websites, writing and editing articles and news stories, microblogging and presenting at conferences."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:435(h2/a)
+msgid "System administration"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:436(html/p)
+msgid "The GNOME project hosts a range of development infrastructure, much of which is vital to its operation. It is the sysadmin team which keep develop and maintain this infrastructure’s hardware and software."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:437(h2/a)
+msgid "Translation"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:438(html/p)
+msgid "GNOME software is available in many languages, as is the project’s documentation and websites. This translation work is undertaken by the many worldwide GNOME translation teams."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:439(h2/a)
+msgid "Usability"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:440(html/p)
+msgid "The GNOME Usability Project overlaps with the design team. Its mission is to ensure that GNOME software is easy to use. The maintanance and development of the GNOME Human Interface Guidelines is a key resonsiblity of this team."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:441(h2/a)
+msgid "Website development"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:442(html/p)
+msgid "GNOME hosts a range of web-sites. These are designed, implemented, maintained and developed by the website team."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:447(post/title)
+msgid "start"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:449(html/p)
+msgid "Congratulations! If you’re here, you’ve heard about GNOME, and you’re curious to find out more, and maybe install it yourself. This page can help."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:450(html/h2)
+msgid "Finding Out More"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:451(p/a)
+msgid "About GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:451(html/p)
+msgid "If you’re not quite clear on what GNOME is, we recommend reading the <_:a-1/> page, which gives a basic overview of what we do and who we are, and links to lots more information about who we are, what we do, and why we think you should use our software."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:452(html/h2)
+msgid "Installing GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:453(html/h3)
+msgid "Stable GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:454(html/p)
+msgid "GNOME releases a new stable version every six months, usually in March and September. If you want thoroughly tested software and a stable developer platform, the stable version is what you want. The current stable version of GNOME is GNOME 3.0, released in April 2011."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:511(h3/a)
+msgid "Fedora"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+msgid "Foresight Linux"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+msgid "Gentoo"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+msgid "Mandriva"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:515(h3/a)
+msgid "openSUSE"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:519(h3/a)
+msgid "Ubuntu"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+msgid "FreeBSD"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(p/a)
+msgid "OpenSolaris"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:455(html/p)
+msgid "The latest stable version of GNOME is generally included after only a few days in the development version of most distributions, like <_:a-1/>, <_:a-2/>, <_:a-3/>, <_:a-4/>, <_:a-5/> and <_:a-6/>, but also <_:a-7/> or <_:a-8/>. Therefore, after a few weeks, you can get the latest stable version of GNOME by simply installing the latest version of your favorite distribution."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:456(html/p)
+msgid "To get more information about what is new in GNOME 3.0, and how to get it, read the <_:a-1/> start page."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:457(html/h3)
+msgid "Development GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:458(html/p)
+msgid "Between stable releases, the GNOME developers hack on the development or ‘unstable’ branch of GNOME, where lots of fun happens, but also occasionally scary and unstable things happen. If you are interested in testing the newest features, or want to develop GNOME software, this is the release for you. The current development branch is GNOME 3.1, due for release in April 2011."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:459(p/a)
+msgid "GNOME 3.1 Release Planning page"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:459(html/p)
+msgid "To get more information about GNOME 3.1, check out the <_:a-1/>, which includes calendars, some feature notes, and other information."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:460(html/p)
+msgid "If you’ve read up, and are ready to take the plunge, see our page on building and installing development versions of GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:461(html/h2)
+msgid "Getting Involved"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:462(p/a)
+msgid "getting involved"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:462(html/p)
+msgid "GNOME is a large, fun community, and we all work pretty hard to get this software out to our users. If you’d like to join us and help advance free, usable desktop software, we have some information on how to start <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:467(post/title)
+msgid "Home"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:472(html/p)
+msgid "Press releases goes here."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:477(post/title)
+msgid "Getting GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:479(html/p)
+msgid "GNOME can be downloaded and installed as a part of a distribution, which also include many GNOME applications. Here’s how you can start using GNOME 3 today."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:481(html/h2)
+msgid "Live Images"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:482(html/p)
+msgid "You can try GNOME 3 right now by using a live version from a CD/DVD or USB stick. This lets you try all the GNOME 3 features without having to permanently install it on your computer."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:484(div/h3)
+msgid "GNOME 3 on openSUSE"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:485(p/a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:486(p/a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:487(div/p)
+msgid "The user name for the openSUSE live image is ‘tux’ and the password is empty."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:490(div/h3)
+msgid "GNOME 3 on Fedora"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:491(p/a)
+msgid "Download for 32 bit systems (Latest)"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:492(div/p)
+msgid "The user name for the Fedora live image is ‘liveuser’ and the password is empty."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:496(html/p)
+msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:497(html/p)
+msgid "To run the GNOME 3 from a USB stick:"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:499(ul/li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:500(ul/li)
+msgid "Open a terminal and navigate to the extracted image writer folder (eg. $ cd Downloads/abock-image-usb-stick-f3b1002)"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:501(ul/li)
+msgid "Prepare the image writer by running: $ chmod a+x ./image-usb-stick"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:502(ul/li)
+msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:503(ul/li)
+msgid "Run the image writer script: $ sudo ./image-usb-stick path_to_the_live_image.iso"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:504(ul/li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:506(p/a)
+msgid "Download USB image writer"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:508(html/h2)
+msgid "Distributions"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:509(html/p)
+msgid "Some of the most popular distributions will be shipping GNOME 3 as part of the their next releases."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:512(div/p)
+msgid "GNOME 3 is included by default in the upcoming version of Fedora, due to be released in May 2011."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:516(div/p)
+msgid "The latest version is openSUSE 12.1, which includes GNOME 3.2 as the default desktop environment."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:520(div/p)
+msgid "The latest version of Ubuntu, which is due for release in April 2011, includes many GNOME applications, and gives you access to many more. Work is progressing on making GNOME 3 available."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:523(html/h2)
+msgid "Get the code!"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:524(p/a)
+msgid "Free Software"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:524(html/p)
+msgid "GNOME’s software is <_:a-1/>: all our code is available for download and can be freely modified and redistributed. There are several ways to get our code:"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:526(li/a)
+msgid "Browse the development code"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:527(li/a)
+msgid "Download the code for our latest release"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:528(li/a)
+msgid "Use the build tool"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:534(post/title)
+msgid "Help ensure a free and open source desktop for everyone"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:538(post/title)
+msgid "Foundation Members"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:540(html/p)
+msgid "The GNOME Foundation membership is open to all GNOME contributors, and every member of the Board of Directors is a contributing member of the GNOME community."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:541(html/p)
+msgid "The Membership consists of all GNOME contributors who wish to become part of the Membership and go through the application process. Members can run for election to the Board of Directors, vote in the elections for the Board of Directors, and suggest referenda. The membership process is overseen by the Membership and Elections Committee."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:543(p/a)
+msgid "membership-committee@gnome.org"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:543(html/p)
+msgid "Send comments, questions, and updates to <_:a-1/>."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:549(post/title)
+msgid "Become a Friend of GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:553(post/title)
+msgid "Testimonials"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:556(html/h2)
+msgid "Robert Cole appreciates the accessibility of GNOME"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:557(html/p)
+msgid "My name is Robert Cole. I am twenty-seven years of age and I currently reside in Modesto, California; I was born and raised in a small town in Ohio. I am very interested in computer science and information technology. I will be the holder of an Associate degree in Computer Information Systems as well as a Computer Applications Specialist certificate from Modesto Junior College following this current semester which ends next week. Though it is only an Associate degree, I have high hopes that it will go a long way in showing employers that I am capable of working and of being an asset to whichever of them will give me a chance at a job."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:558(html/p)
+msgid "I have been married to my wife Gloria for over seven years (eight years come June 2012); we have a two-and-a-half-year-old son named R.J. as well as another little boy due around March 17. My family means the world to me, and my goal is to pursue a career which will allow me to provide for them and meet all of their needs."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:559(html/p)
+msgid "I was born with a visual defect called microphthalmia, which is a big word that simply means that my eyeballs did not fully develop and are thus about one-third the size of a normal human eyeball. I have no sight at all in my left eye, and I have a visual acuity measurement of 20/2000 in my right eye, which basically means that my vision is very limited. Throughout the duration of my childhood, my mother (who was a single mother who had the task of raising four children including myself) as well as others around me had no idea what to do with me as I was the only visually impaired person (to my knowledge) in the town in which we resided. To say the least about my childhood, my mother did her best to raise us, but we lived well below the poverty level; I had few friends because many of the children my age were afraid to even be around me as I was ‘different’."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:560(html/p)
+msgid "I was introduced to computers in 1998 during my eighth grade year. I felt completely hopeless as I attempted to see the screen in my middle school’s computer lab. The system ran Windows 98, and I felt like a complete failure because I felt as though I could never use a computer system. I purchased my first computer system (with money which I scrounged up over many months) in 2001. This machine ran Windows ME, and it is needless to say…I still felt like I could never use a computer system. As time went on I was introduced to commercial assistive technology software such as the ZoomText screen magnifier (produced by AiSquared) and the JAWS screen reader (produced by Freedom Scientific). I finally felt like I could do something with computers. In 2002, I earned a certification of completion from a local vocational school as well as a Honors Diploma from my local high school."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:561(html/p)
+msgid "Thanks to a state agency, JAWS and ZoomText were purchased for me at no cost, and I felt much more productive in using a computer system. Then it happened: time for upgrades (which were by no means free)! I couldn’t afford them, and the state agency would not authorize them. Things just did not function as well on my updated computer system with frozen assistive technologies."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:562(html/p)
+msgid "In 2006 I took a GNU/Linux class at a local college. I was afraid of how things would proceed as I had never used Linux although I had researched it a lot before the class. The class used Fedora Core 5 at that time, and I had no clue what was available for Linux in the area of accessibility. The professor of the class did some research and pointed me to Gnopernicus. Thanks the screen magnification available in Gnopernicus I was able to use Fedora Core 5 and I passed the class with a perfect score. During that class I fell in love with Linux and GNOME."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:563(html/p)
+msgid "I did not fully switch to GNU/Linux until 2007, but during 2005 I worked a lot with an Ubuntu live CD to keep track of how far accessibility had come along as, though it was very helpful, Gnopernicus did not fully meet my needs. In 2007 I began to work with the GNOME Magnifier (gnome-mag) as well as the Compiz eZoom plugin. Accessibility had come a long way, and I could finally completely switch to Linux! I have been a happy Linux/GNOME user ever since."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:564(html/p)
+msgid "As of recent months, my eyes have begun to grow tired much more quickly, so I have also been working with the Orca screen reader more and more to reduce eye strain. I also use the Compiz Negative plugin in GNOME 2.32 on a Linux Mint 11 system which makes reading much easier on my eyes. Although GNOME 3.x does not work with Compiz, it provides a very good magnification option using the built-in Zoom feature. There is also an inverse contrast feature which is under development; this will make my GNOME 3 experience much more pleasant as I will be able to read with a negative contrast (white text on a black background)."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:565(html/p)
+msgid "I am simply amazed with how far accessibility has come along in GNU/Linux and in GNOME. I can certainly testify that I could not have come along as far as I have without the work which has been done in GNOME as related to accessibility. Without all of the work which was put into things such s screen magnification and the Orca screen reader, I would still be stuck running outdated commercial assistive technology software on an up-to-date operating system."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:566(html/p)
+msgid "I want to personally thank all of the developers who take accessibility into account. My most sincere hope is that of see this type of software flourish in the open source world. Accessibility and assistive technologies are very vital as the population of disabled users is rapidly growing. As of 2006, there were roughly over 21 million blind adults in the United States alone. For me that means a lot, as I know what it can be like to want to be able to use a computer system for numerous things, but there is no money available to purchase commercial software (often costing the same as purchasing two or more computer systems). For me, GNU/Linux and GNOME equal freedom, and without all of the hard work which has been put into all of this wonderful software, I would truly be at a loss. This is why further development and maintenance of accessible software is so important to me."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:567(html/p)
+msgid "Thank you for all of the hard work; it has made a tremendous difference in my life, and it is something which I do not take for granted. I truly mean it when I say that without your hard work, I would not be where I am today! Thanks for everything which all of you do to make GNOME work!"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:568(p/a)
+msgid "Creative Commons BY-NC-ND 3.0"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:568(html/p)
+msgid "(c) 2011 Robert Cole, Licensed under <_:a-1/>"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:573(post/title)
+msgid "Other Ways to Donate"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:575(html/p)
+msgid "You may also become a member by sending a check payable to GNOME Foundation, Inc. to:<_:br-1/> GNOME Foundation<_:br-2/> PO Box 101<_:br-3/> Groton, MA 01450<_:br-4/> USA&gt;<_:br-5/> or via bank wire transfer.<_:br-6/> Account Name: GNOME Foundation<_:br-7/> Bank Name: Citizens Bank<_:br-8/> Bank Address: 1 Citizens Dr., Riverside, RI 02915<_:br-9/> ABA: 011500120<_:br-10/> Account: 1310181397<_:br-11/> SWIFT: CTZIUS33"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:587(html/h2)
+msgid "Corporate Sponsorship"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:588(p/a)
+msgid "GNOME Advisory Board"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:588(html/p)
+msgid "Do you as a company want to sponsor GNOME and take a seat in the <_:a-1/>? Please contact &lt;fundraising at gnome org&gt;."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:593(post/title)
+msgid "Previous Donors"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:597(post/title)
+msgid "Promote GNOME on your Website"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:601(post/title)
+msgid "Support GNOME by Shopping at Amazon.com"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:608(post/title)
+msgid "Become a Foundation member"
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:610(html/p)
+msgid "If you are a GNOME contribuitor, there is no reason why<_:br-1/>you shouldn’t be part of the GNOME Foundation."
+msgstr ""
+
+#: /srv/http/wptest.gnome.org/html/wppo/static.xml:611(html/p)
+msgid "To apply for membership in the GNOME Foundation, please complete the following form in English. Your application will then be reviewed by the Foundation’s Membership and Elections Committee, which will notify you when your application has been accepted or rejected."
+msgstr ""
+

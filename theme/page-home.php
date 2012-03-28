@@ -48,7 +48,7 @@ require_once("header.php"); ?>
             </div>
             
             <p style="text-align: center;">
-                <a class="action_button" href="http://library.gnome.org/misc/release-notes/3.2/">Read the Release Notes</a>
+                <a class="action_button" href="http://library.gnome.org/misc/release-notes/3.4/">Read the Release Notes</a>
                 <a class="action_button" href="/gnome-3/">Discover GNOME 3</a>
             </p>
             

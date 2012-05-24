@@ -3,9 +3,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-05-24 11:55+0200\n"
+"PO-Revision-Date: 2012-05-24 12:31+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -292,7 +292,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:199(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3067(a/img@alt)
 msgid "Karen, Mark, Michael and Bradley"
-msgstr ""
+msgstr "Karen, Mark, Michael y Bradley"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:200(post/excerpt)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3065(html/h2)
@@ -318,7 +318,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:212(post/excerpt)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3078(a/img@alt)
 msgid "Karen Sandler"
-msgstr ""
+msgstr "Karen Sandler"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:215(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:216(post/excerpt)
@@ -337,7 +337,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:225(post/title)
 msgid "gnome 3.2"
-msgstr ""
+msgstr "gnome 3.2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:246(post/title)
 msgid "cc-all-420x262"
@@ -377,7 +377,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3347(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3398(a/img@title)
 msgid "igalia"
-msgstr ""
+msgstr "igalia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:285(post/title)
 msgid "intel"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:297(post/title)
 msgid "olpc"
-msgstr ""
+msgstr "olpc"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:300(post/title)
 msgid "oracle"
@@ -734,7 +734,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:543(post/title)
 msgid "gnome-3.4"
-msgstr ""
+msgstr "gnome-3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:546(post/title)
 msgid "application-view-420x263"
@@ -797,7 +797,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:603(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:606(post/title)
 msgid "gnome 3.4"
-msgstr ""
+msgstr "gnome 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:609(post/title)
 msgid "gnome-3.4-600x375"
@@ -1091,7 +1091,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1490(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2300(p/a)
 msgid "http://www.gnome.org/"
-msgstr ""
+msgstr "http://www.gnome.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:702(html/p)
 msgid ""
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:703(p/a)
 msgid "http://gnotices.gnome.org/gnome-news/"
-msgstr ""
+msgstr "http://gnotices.gnome.org/gnome-news/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:703(html/p)
 msgid "Updates and news the GNOME community are available daily from <_:a-1/>"
@@ -1117,7 +1117,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:706(p/a)
 msgid "ftp://ftp.gnome.org/pub/GNOME/stable/releases/gnome-1.2/"
-msgstr ""
+msgstr "ftp://ftp.gnome.org/pub/GNOME/stable/releases/gnome-1.2/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:707(html/p)
 msgid "Our web site contains full details for installing GNOME from source:"
@@ -1125,7 +1125,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:708(p/a)
 msgid "http://www.gnome.org/start/installing/"
-msgstr ""
+msgstr "http://www.gnome.org/start/installing/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:709(html/h3)
 msgid "READY-TO-INSTALL GNOME 1.2"
@@ -1139,7 +1139,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:711(p/a)
 msgid "http://www.helixcode.com/desktop/download.php3"
-msgstr ""
+msgstr "http://www.helixcode.com/desktop/download.php3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:712(html/p)
 msgid "An extensive set of platforms are supported:"
@@ -1180,7 +1180,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:728(p/a)
 msgid "http://www.helixcode.com/desktop/screenshots.php3"
-msgstr ""
+msgstr "http://www.helixcode.com/desktop/screenshots.php3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:729(html/h3)
 msgid "THE GNOME STEERING COMMITTEE"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:910(p/a)
 msgid "http://developer.gnome.org/feature/current/"
-msgstr ""
+msgstr "http://developer.gnome.org/feature/current/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:909(html/p)
 msgid ""
@@ -2272,7 +2272,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:912(p/a)
 msgid "http://projects.gnome.org/accessibility"
-msgstr ""
+msgstr "http://projects.gnome.org/accessibility"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:911(html/p)
 msgid ""
@@ -2286,11 +2286,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:915(p/a)
 msgid "http://library.gnome.org/devel/atk/stable/"
-msgstr ""
+msgstr "http://library.gnome.org/devel/atk/stable/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:916(p/a)
 msgid "http://projects.gnome.org/accessibility/talks/GTK-impl.html"
-msgstr ""
+msgstr "http://projects.gnome.org/accessibility/talks/GTK-impl.html"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:914(html/p)
 msgid "API documentation:<br/> <_:a-1/><br/> <_:a-2/>"
@@ -2298,7 +2298,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:918(p/a)
 msgid "http://library.gnome.org/users/user-guide/nightly/keyboard-skills.html"
-msgstr ""
+msgstr "http://library.gnome.org/users/user-guide/nightly/keyboard-skills.html"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:917(html/p)
 msgid "Keyboard navigation documentation:<br/> <_:a-1/>"
@@ -2385,7 +2385,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2425(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3545(p/a)
 msgid "www.gnome.org"
-msgstr ""
+msgstr "www.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:924(html/p)
 msgid "More information on GNOME is available at <_:a-1/>"
@@ -2516,7 +2516,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:945(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:946(p/a)
 msgid "http://projects.gnome.org/accessibility/"
-msgstr ""
+msgstr "http://projects.gnome.org/accessibility/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:944(html/p)
 msgid "GNOME Accessibility Framework is available at: <_:a-1/>"
@@ -3567,7 +3567,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3356(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3545(p/a)
 msgid "www.guadec.org"
-msgstr ""
+msgstr "www.guadec.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1162(html/p)
 msgid ""
@@ -3597,7 +3597,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1171(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1246(p/a)
 msgid "http://www.hia.no"
-msgstr ""
+msgstr "http://www.hia.no"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1171(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1246(html/p)
@@ -3920,7 +3920,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1238(html/p)
 msgid "###"
-msgstr ""
+msgstr "###"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1251(post/title)
 msgid "International Free Software conference &amp; Rock'n Roll in Norway"
@@ -3982,7 +3982,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1262(li/a)
 msgid "http://www.linuxjournal.com/article.php?sid=6099"
-msgstr ""
+msgstr "http://www.linuxjournal.com/article.php?sid=6099"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1261(ul/li)
 msgid ""
@@ -4001,7 +4001,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1265(li/a)
 msgid "http://perens.com/"
-msgstr ""
+msgstr "http://perens.com/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1264(ul/li)
 msgid ""
@@ -4011,7 +4011,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1267(li/a)
 msgid "http://www.gag.com/~bdale/"
-msgstr ""
+msgstr "http://www.gag.com/~bdale/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1266(ul/li)
 msgid ""
@@ -4021,7 +4021,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1269(li/a)
 msgid "http://www.govtech.net/magazine/story.php?id=87471"
-msgstr ""
+msgstr "http://www.govtech.net/magazine/story.php?id=87471"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1268(ul/li)
 msgid "Bob Stack, CTO Commonwealth of Massachusetts<br/> <_:a-1/>"
@@ -4029,7 +4029,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1271(li/a)
 msgid "http://www.nat.org/"
-msgstr ""
+msgstr "http://www.nat.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1270(ul/li)
 msgid ""
@@ -4039,7 +4039,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1273(li/a)
 msgid "http://teknologiradet.no/html/493.htm"
-msgstr ""
+msgstr "http://teknologiradet.no/html/493.htm"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1272(ul/li)
 msgid ""
@@ -4159,7 +4159,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1308(p/a)
 msgid "www.gnome.org."
-msgstr ""
+msgstr "www.gnome.org."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1308(html/p)
 msgid ""
@@ -4244,7 +4244,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1322(p/a)
 msgid "http://forumgnome.com.br/"
-msgstr ""
+msgstr "http://forumgnome.com.br/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1322(html/p)
 msgid ""
@@ -4333,7 +4333,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1346(p/a)
 msgid "www.gnome.org/start/2.10/"
-msgstr ""
+msgstr "www.gnome.org/start/2.10/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1346(html/p)
 msgid ""
@@ -4346,7 +4346,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1347(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1485(p/a)
 msgid "http://ftp.gnome.org/pub/GNOME/desktop/"
-msgstr ""
+msgstr "http://ftp.gnome.org/pub/GNOME/desktop/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1347(html/p)
 msgid ""
@@ -4397,7 +4397,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1354(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2471(li/a)
 msgid "http://foundation.gnome.org"
-msgstr ""
+msgstr "http://foundation.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1354(html/p)
 msgid ""
@@ -4448,7 +4448,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3203(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3852(p/a)
 msgid "gnome-press-contact@gnome.org"
-msgstr ""
+msgstr "gnome-press-contact@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1356(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1494(html/p)
@@ -4564,7 +4564,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1378(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1407(p/a)
 msgid "http://opensource.region-stuttgart.de/english.php"
-msgstr ""
+msgstr "http://opensource.region-stuttgart.de/english.php"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1378(html/p)
 msgid ""
@@ -4776,7 +4776,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1429(p/a)
 msgid "press.office@nokia.com"
-msgstr ""
+msgstr "press.office@nokia.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1426(html/p)
 msgid ""
@@ -4785,7 +4785,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1430(p/a)
 msgid "www.nokia.com"
-msgstr ""
+msgstr "www.nokia.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1434(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1439(html/p)
@@ -4878,7 +4878,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1459(p/a)
 msgid "guadec.gnome.org"
-msgstr ""
+msgstr "guadec.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1459(html/p)
 msgid ""
@@ -4896,7 +4896,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1461(p/a)
 msgid "www.igcweb.net"
-msgstr ""
+msgstr "www.igcweb.net"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1461(html/p)
 msgid ""
@@ -4988,7 +4988,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1484(p/a)
 msgid "www.gnome.org/start/2.12/"
-msgstr ""
+msgstr "www.gnome.org/start/2.12/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1484(html/p)
 msgid ""
@@ -5263,7 +5263,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1544(li/a)
 msgid "Ekiga"
-msgstr ""
+msgstr "Ekiga"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1544(ul/li)
 msgid ""
@@ -5386,7 +5386,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1565(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1566(p/a)
 msgid "www.gnome.org/start/2.14/"
-msgstr ""
+msgstr "www.gnome.org/start/2.14/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1565(html/p)
 msgid ""
@@ -5439,7 +5439,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1572(p/a)
 msgid "www.gnome.org/"
-msgstr ""
+msgstr "www.gnome.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1572(html/p)
 msgid "More information on GNOME can be found at <_:a-1/>."
@@ -5457,7 +5457,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1576(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1598(p/a)
 msgid "www.gnome.org/press/"
-msgstr ""
+msgstr "www.gnome.org/press/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1576(html/p)
 msgid ""
@@ -5809,7 +5809,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1641(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1643(p/a)
 msgid "www.gnome.org/mobile"
-msgstr ""
+msgstr "www.gnome.org/mobile"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1641(html/p)
 msgid ""
@@ -6206,7 +6206,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1718(html/h3)
 msgid "Get Involved"
-msgstr ""
+msgstr "Involucrarse"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1719(html/p)
 msgid ""
@@ -6387,7 +6387,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1747(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1796(p/a)
 msgid "www.mozilla.org/foundation"
-msgstr ""
+msgstr "www.mozilla.org/foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1747(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1796(html/p)
@@ -6410,11 +6410,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1749(p/a)
 msgid "www.canonical.com/"
-msgstr ""
+msgstr "www.canonical.com/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1749(p/a)
 msgid "www.ubuntu.com/"
-msgstr ""
+msgstr "www.ubuntu.com/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1749(html/p)
 msgid ""
@@ -6533,15 +6533,15 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1771(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2326(p/a)
 msgid "http://www.guadec.org/"
-msgstr ""
+msgstr "http://www.guadec.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1772(p/a)
 msgid "http://guadec.org/guadec08/public/cfp/1"
-msgstr ""
+msgstr "http://guadec.org/guadec08/public/cfp/1"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1773(p/a)
 msgid "http://guadec.org/public/content/keynotes"
-msgstr ""
+msgstr "http://guadec.org/public/content/keynotes"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1771(html/p)
 msgid ""
@@ -6789,13 +6789,13 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1831(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2178(p/a)
 msgid "board@gnome.org"
-msgstr ""
+msgstr "board@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1831(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1896(li/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2178(p/a)
 msgid "kde-ev-board@kde.org"
-msgstr ""
+msgstr "kde-ev-board@kde.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1831(html/p)
 msgid ""
@@ -6835,7 +6835,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1835(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1888(p/a)
 msgid "www.kde.org"
-msgstr ""
+msgstr "www.kde.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1835(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1888(p/a)
@@ -7205,7 +7205,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1934(p/a)
 msgid "http://www.grancanariadesktopsummit.org/"
-msgstr ""
+msgstr "http://www.grancanariadesktopsummit.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1939(post/title)
 msgid ""
@@ -7264,7 +7264,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1946(p/a)
 msgid "http://sugarlabs.org"
-msgstr ""
+msgstr "http://sugarlabs.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1946(html/p)
 msgid ""
@@ -7394,7 +7394,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1988(p/a)
 msgid "www.grancanariadesktopsummit.org"
-msgstr ""
+msgstr "www.grancanariadesktopsummit.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1988(html/p)
 msgid "For more information see <_:a-1/>."
@@ -7402,7 +7402,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1989(p/a)
 msgid "http://www.grancanariadesktopsummit.org/user/register"
-msgstr ""
+msgstr "http://www.grancanariadesktopsummit.org/user/register"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1989(html/p)
 msgid ""
@@ -7550,7 +7550,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2018(li/a)
 msgid "http://www.gnome.org/foundation"
-msgstr ""
+msgstr "http://www.gnome.org/foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2018(ul/li)
 msgid "GNOME Foundation: <_:a-1/>"
@@ -7558,7 +7558,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2019(li/a)
 msgid "http://ev.kde.org/"
-msgstr ""
+msgstr "http://ev.kde.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2019(ul/li)
 msgid "KDE e.V.: <_:a-1/>"
@@ -7566,7 +7566,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2020(li/a)
 msgid "http://www.grancanaria.com"
-msgstr ""
+msgstr "http://www.grancanaria.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2020(ul/li)
 msgid "Cabildo of Gran Canaria: <_:a-1/>"
@@ -7574,7 +7574,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2021(li/a)
 msgid "http://www.ulpgc.es"
-msgstr ""
+msgstr "http://www.ulpgc.es"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2021(ul/li)
 msgid "ULPGC: <_:a-1/>"
@@ -7582,7 +7582,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2022(li/a)
 msgid "http://www.osl.ull.es"
-msgstr ""
+msgstr "http://www.osl.ull.es"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2022(ul/li)
 msgid "ULL: <_:a-1/>"
@@ -7590,7 +7590,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2023(li/a)
 msgid "http://www.eslic.es"
-msgstr ""
+msgstr "http://www.eslic.es"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2023(ul/li)
 msgid "ESLIC: <_:a-1/>"
@@ -7598,7 +7598,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2024(li/a)
 msgid "http://www.asolif.org"
-msgstr ""
+msgstr "http://www.asolif.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2024(ul/li)
 msgid "ASOLIF: <_:a-1/>"
@@ -7606,7 +7606,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2025(li/a)
 msgid "http://www.gulic.org"
-msgstr ""
+msgstr "http://www.gulic.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2025(ul/li)
 msgid "GULIC: <_:a-1/>"
@@ -7614,7 +7614,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2026(li/a)
 msgid "http://es.gnome.org"
-msgstr ""
+msgstr "http://es.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2026(ul/li)
 msgid "GNOME Hispano: <_:a-1/>"
@@ -7622,7 +7622,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2027(li/a)
 msgid "http://www.kde-espana.es"
-msgstr ""
+msgstr "http://www.kde-espana.es"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2027(ul/li)
 msgid "KDE España: <_:a-1/>"
@@ -7920,7 +7920,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2096(p/a)
 msgid "http://library.gnome.org/misc/release-notes/2.28/"
-msgstr ""
+msgstr "http://library.gnome.org/misc/release-notes/2.28/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2096(html/p)
 msgid "For the full list of changes, please see the release notes at <_:a-1/>."
@@ -8198,11 +8198,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2178(p/a)
 msgid "http://ev.kde.org/akademy/requirements.php"
-msgstr ""
+msgstr "http://ev.kde.org/akademy/requirements.php"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2178(p/a)
 msgid "http://live.gnome.org/GuadecPlanningHowTo/CheckList"
-msgstr ""
+msgstr "http://live.gnome.org/GuadecPlanningHowTo/CheckList"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2178(html/p)
 msgid ""
@@ -8313,7 +8313,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2207(p/a)
 msgid "http://www.projectpossibility.org"
-msgstr ""
+msgstr "http://www.projectpossibility.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2207(html/p)
 msgid ""
@@ -8529,7 +8529,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2265(p/a)
 msgid "www.collabora.co.uk"
-msgstr ""
+msgstr "www.collabora.co.uk"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2265(html/p)
 msgid "For more information please visit <_:a-1/>."
@@ -8538,7 +8538,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2275(li/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2308(li/a)
 msgid "paul@risepr.co.uk"
-msgstr ""
+msgstr "paul@risepr.co.uk"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2273(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2306(ul/li)
@@ -8632,7 +8632,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2297(p/a)
 msgid "http://www.sugarlabs.org/"
-msgstr ""
+msgstr "http://www.sugarlabs.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2297(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2303(html/p)
@@ -8651,7 +8651,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2300(p/a)
 msgid "http://foundation.gnome.org/"
-msgstr ""
+msgstr "http://foundation.gnome.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2300(html/p)
 msgid "More information can be found at <_:a-1/> and <_:a-2/>."
@@ -8671,7 +8671,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2303(p/a)
 msgid "http://www.laptop.org/"
-msgstr ""
+msgstr "http://www.laptop.org/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2319(post/title)
 msgid "GNOME Targets Wider Audience at GUADEC"
@@ -8802,7 +8802,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2353(p/a)
 msgid "www.flumotion.com"
-msgstr ""
+msgstr "www.flumotion.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2353(html/p)
 msgid ""
@@ -8833,7 +8833,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2356(p/a)
 msgid "www.fluendo.com"
-msgstr ""
+msgstr "www.fluendo.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2356(html/p)
 msgid ""
@@ -8849,15 +8849,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2363(p/a)
 msgid "www.webmproject.org"
-msgstr ""
+msgstr "www.webmproject.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2363(p/a)
 msgid "www.vorbis.org"
-msgstr ""
+msgstr "www.vorbis.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2363(p/a)
 msgid "www.matroska.org"
-msgstr ""
+msgstr "www.matroska.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2363(html/p)
 msgid ""
@@ -8873,7 +8873,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2368(li/a)
 msgid "press@flumotion.com"
-msgstr ""
+msgstr "press@flumotion.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2366(ul/li)
 msgid "Flumotion<br/> Julia Atzesberger<br/> Email: <_:a-1/>"
@@ -9157,7 +9157,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2459(li/a)
 msgid "http://www.desktopsummit.org"
-msgstr ""
+msgstr "http://www.desktopsummit.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2458(ul/li)
 msgid ""
@@ -9168,7 +9168,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2462(li/a)
 msgid "jos@opensuse.org"
-msgstr ""
+msgstr "jos@opensuse.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2462(ul/li)
 msgid ""
@@ -9178,7 +9178,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2466(li/a)
 msgid "thomas.keup@opencoffee.de"
-msgstr ""
+msgstr "thomas.keup@opencoffee.de"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2466(ul/li)
 msgid ""
@@ -9188,7 +9188,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2470(li/a)
 msgid "stormy@gnome.org"
-msgstr ""
+msgstr "stormy@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2470(ul/li)
 msgid ""
@@ -9198,11 +9198,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2474(li/a)
 msgid "rauch@kde.org"
-msgstr ""
+msgstr "rauch@kde.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2475(li/a)
 msgid "http://ev.kde.org"
-msgstr ""
+msgstr "http://ev.kde.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2474(ul/li)
 msgid ""
@@ -9309,7 +9309,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2508(html/h2)
 msgid "Brian Cameron"
-msgstr ""
+msgstr "Brian Cameron"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2509(html/p)
 msgid ""
@@ -9395,7 +9395,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2521(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3221(p/a)
 msgid "board-list@gnome.org"
-msgstr ""
+msgstr "board-list@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2521(html/p)
 msgid ""
@@ -9457,11 +9457,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2532(ul/li)
 msgid "Friedel Wolff"
-msgstr ""
+msgstr "Friedel Wolff"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2533(ul/li)
 msgid "Alejandro Piñeiro Iglesias"
-msgstr ""
+msgstr "Alejandro Piñeiro Iglesias"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2534(ul/li)
 msgid "Sumana Harihareswara"
@@ -9469,14 +9469,14 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2535(ul/li)
 msgid "Jelle de Jong"
-msgstr ""
+msgstr "Jelle de Jong"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2536(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2586(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2721(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3705(html/h2)
 msgid "Christer Edwards"
-msgstr ""
+msgstr "Christer Edwards"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2537(ul/li)
 msgid "Pablo Castellano 2010-09-30"
@@ -9492,7 +9492,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2668(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3581(html/h2)
 msgid "Shaun McCance"
-msgstr ""
+msgstr "Shaun McCance"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2542(html/p)
 msgid ""
@@ -9542,7 +9542,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2662(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3575(html/h2)
 msgid "André Klapper"
-msgstr ""
+msgstr "André Klapper"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2550(html/p)
 msgid ""
@@ -9575,7 +9575,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2677(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3692(html/h2)
 msgid "Petr Kovar"
-msgstr ""
+msgstr "Petr Kovar"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2556(html/p)
 msgid ""
@@ -9714,7 +9714,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3157(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3665(html/h2)
 msgid "Marina Zhurakhinskaya"
-msgstr ""
+msgstr "Marina Zhurakhinskaya"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2578(html/p)
 msgid ""
@@ -9736,7 +9736,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2580(p/a)
 msgid "http://live.gnome.org/GnomeWomen/OutreachProgram2010"
-msgstr ""
+msgstr "http://live.gnome.org/GnomeWomen/OutreachProgram2010"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2580(html/p)
 msgid ""
@@ -9767,6 +9767,8 @@ msgid ""
 "http://libreplanet.org/wiki/Women%27s_Caucus/"
 "Girl_Scouts_Free_Software_Outreach"
 msgstr ""
+"http://libreplanet.org/wiki/Women%27s_Caucus/"
+"Girl_Scouts_Free_Software_Outreach"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2582(html/p)
 msgid ""
@@ -9837,7 +9839,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2592(p/a)
 msgid "http://blogs.gnome.org/Sysadmin"
-msgstr ""
+msgstr "http://blogs.gnome.org/Sysadmin"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2592(html/p)
 msgid ""
@@ -10269,31 +10271,31 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2690(ul/li)
 msgid "José Aliste"
-msgstr ""
+msgstr "José Aliste"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2691(ul/li)
 msgid "Daniël van Eeden"
-msgstr ""
+msgstr "Daniël van Eeden"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2692(ul/li)
 msgid "Francisco Diéguez Souto"
-msgstr ""
+msgstr "Francisco Diéguez Souto"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2693(ul/li)
 msgid "Jeremy Perry"
-msgstr ""
+msgstr "Jeremy Perry"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2694(ul/li)
 msgid "Sebastian Dröge"
-msgstr ""
+msgstr "Sebastian Dröge"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2695(ul/li)
 msgid "Zachary Goldberg"
-msgstr ""
+msgstr "Zachary Goldberg"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2696(ul/li)
 msgid "Jain Punit"
-msgstr ""
+msgstr "Jain Punit"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2697(ul/li)
 msgid "Adam Dingle"
@@ -10301,11 +10303,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2698(ul/li)
 msgid "Ray Wang"
-msgstr ""
+msgstr "Ray Wang"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2699(ul/li)
 msgid "Mirco Bauer"
-msgstr ""
+msgstr "Mirco Bauer"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2700(ul/li)
 msgid "Dragos Dena"
@@ -11203,7 +11205,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2896(p/a)
 msgid "http://www.gnome.asia"
-msgstr ""
+msgstr "http://www.gnome.asia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2896(html/p)
 msgid ""
@@ -11300,15 +11302,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2914(p/a)
 msgid "http://www.gnome.asia/about/gnomeasia/event-organization-checklist"
-msgstr ""
+msgstr "http://www.gnome.asia/about/gnomeasia/event-organization-checklist"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2915(p/a)
 msgid "http://www.gnome.asia/about/gnomeasia/summit-planning-howto"
-msgstr ""
+msgstr "http://www.gnome.asia/about/gnomeasia/summit-planning-howto"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2914(html/p)
 msgid "[1] <_:a-1/><br/> [2] <_:a-2/>"
-msgstr ""
+msgstr "[1] <_:a-1/><br/> [2] <_:a-2/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2920(post/title)
 msgid "Interview with Desktop Summit keynote, Thomas Thwaites"
@@ -11321,7 +11323,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2922(p/a)
 msgid "Thomas Thwaites"
-msgstr ""
+msgstr "Thomas Thwaites"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2922(p/a)
 msgid "the Toaster Project"
@@ -11455,7 +11457,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2942(li/a)
 msgid "[1]"
-msgstr ""
+msgstr "[1]"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2942(ul/li)
 msgid "Session hosts (names, contact info)<_:a-1/>"
@@ -11467,7 +11469,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2944(li/a)
 msgid "[2]"
-msgstr ""
+msgstr "[2]"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2944(ul/li)
 msgid "Format of the session<_:a-1/>"
@@ -11509,7 +11511,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2954(p/a)
 msgid "ds-team@desktopsummit.org"
-msgstr ""
+msgstr "ds-team@desktopsummit.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2954(html/p)
 msgid ""
@@ -11633,7 +11635,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2974(a/img@alt)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2975(p/a)
 msgid "Claire Rowland"
-msgstr ""
+msgstr "Claire Rowland"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2974(html/p)
 msgid ""
@@ -11673,7 +11675,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2979(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2998(html/p)
 msgid "<_:a-1/>."
-msgstr ""
+msgstr "<_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2984(post/title)
 msgid "A Conversation with Dirk Hohndel, Desktop Summit keynote speaker"
@@ -11805,18 +11807,18 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3019(ul/li)
 msgid "Canonical"
-msgstr ""
+msgstr "Canonical"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3020(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3942(p/a)
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3021(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3359(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3652(p/a)
 msgid "Igalia"
-msgstr ""
+msgstr "Igalia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3022(ul/li)
 msgid "The Linux Foundation"
@@ -11824,7 +11826,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3023(ul/li)
 msgid "Qt"
-msgstr ""
+msgstr "Qt"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3026(html/p)
 msgid "The following are our Bronze level sponsors:"
@@ -11832,13 +11834,13 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3028(ul/li)
 msgid "Lanedo"
-msgstr ""
+msgstr "Lanedo"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3029(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3652(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3942(p/a)
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3030(ul/li)
 msgid "OpenShine"
@@ -11887,11 +11889,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3040(p/a)
 msgid "www.desktopsummit.org/contact"
-msgstr ""
+msgstr "www.desktopsummit.org/contact"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3040(p/a)
 msgid "jospoortvliet@gmail.com"
-msgstr ""
+msgstr "jospoortvliet@gmail.com"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3040(html/p)
 msgid ""
@@ -11901,7 +11903,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3041(p/a)
 msgid "ds-sponsoring@desktopsummit.org"
-msgstr ""
+msgstr "ds-sponsoring@desktopsummit.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3041(html/p)
 msgid "If you would like to discuss sponsorship, please contact us: <_:a-1/>"
@@ -12462,7 +12464,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3128(p/a)
 msgid "Máirín Duffy"
-msgstr ""
+msgstr "Máirín Duffy"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3128(html/p)
 msgid ""
@@ -12603,7 +12605,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3148(p/a)
 msgid "http://www.gnome.org/friends/"
-msgstr ""
+msgstr "http://www.gnome.org/friends/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3148(html/p)
 msgid ""
@@ -12643,11 +12645,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3157(p/a)
 msgid "Lars Wirzenius"
-msgstr ""
+msgstr "Lars Wirzenius"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3157(p/a)
 msgid "Colin Walters"
-msgstr ""
+msgstr "Colin Walters"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3157(html/p)
 msgid ""
@@ -12666,7 +12668,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3159(li/a)
 msgid "Matthias Clasen"
-msgstr ""
+msgstr "Matthias Clasen"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3159(ul/li)
 msgid ""
@@ -12677,7 +12679,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3160(li/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3586(html/h2)
 msgid "Frederic Peters"
-msgstr ""
+msgstr "Frederic Peters"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3160(ul/li)
 msgid "<_:a-1/> wrote an overview."
@@ -12685,7 +12687,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3161(li/a)
 msgid "Jean-François Fortin Tam"
-msgstr ""
+msgstr "Jean-François Fortin Tam"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3161(ul/li)
 msgid ""
@@ -12695,7 +12697,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3162(li/a)
 msgid "Tiffany Antopolski"
-msgstr ""
+msgstr "Tiffany Antopolski"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3162(ul/li)
 msgid "<_:a-1/> recapped the GNOME strategy session."
@@ -12762,6 +12764,8 @@ msgid ""
 "http://live.gnome.org/GnomeWomen/OutreachProgram2011/MayAugust/"
 "Accomplishments"
 msgstr ""
+"http://live.gnome.org/GnomeWomen/OutreachProgram2011/MayAugust/"
+"Accomplishments"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3178(html/p)
 msgid ""
@@ -12909,7 +12913,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3200(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3959(p/a)
 msgid "http://projects.gnome.org/outreach/women"
-msgstr ""
+msgstr "http://projects.gnome.org/outreach/women"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3200(html/p)
 msgid ""
@@ -12925,7 +12929,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3202(p/a)
 msgid "http://www.gnome.org/friends"
-msgstr ""
+msgstr "http://www.gnome.org/friends"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3202(html/p)
 msgid ""
@@ -13094,7 +13098,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3233(p/a)
 msgid "http://live.gnome.org/ThreePointOne/Features"
-msgstr ""
+msgstr "http://live.gnome.org/ThreePointOne/Features"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3233(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3349(p/a)
@@ -13401,7 +13405,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3288(html/h3)
 msgid "GNOME 3.2"
-msgstr ""
+msgstr "GNOME 3.2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3289(html/p)
 msgid "We are happy to announce that:"
@@ -14409,7 +14413,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3514(p/a@title)
 msgid "GUADEC"
-msgstr ""
+msgstr "GUADEC"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3514(p/a)
 msgid "2012 GNOME Users And Developers European Conference"
@@ -14499,7 +14503,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3528(p/a)
 msgid "gpul.org"
-msgstr ""
+msgstr "gpul.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3528(html/p)
 msgid ""
@@ -14545,7 +14549,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3539(p/a@title)
 msgid "guadec-papers@gnome.org"
-msgstr ""
+msgstr "guadec-papers@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3539(p/a)
 msgid "program committee"
@@ -14596,11 +14600,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3546(p/a)
 msgid "identi.ca/GUADEC"
-msgstr ""
+msgstr "identi.ca/GUADEC"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3546(p/a)
 msgid "twitter.com/GUADEC"
-msgstr ""
+msgstr "twitter.com/GUADEC"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3546(html/p)
 msgid "Follow GUADEC developments: <_:a-1/> &amp; <_:a-2/>"
@@ -14608,7 +14612,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3547(p/a@title)
 msgid "guadec-list@gnome.org"
-msgstr ""
+msgstr "guadec-list@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3547(p/a)
 msgid "the GUADEC team"
@@ -14731,7 +14735,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3592(html/h2)
 msgid "Calum Benson"
-msgstr ""
+msgstr "Calum Benson"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3593(html/p)
 msgid "Work continued on GNOME 3.2 features including:"
@@ -14877,10 +14881,11 @@ msgstr ""
 msgid ""
 "http://mail.gnome.org/archives/foundation-announce/2011-June/msg00002.html"
 msgstr ""
+"http://mail.gnome.org/archives/foundation-announce/2011-June/msg00002.html"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3626(html/p)
 msgid "¹ <_:a-1/>"
-msgstr ""
+msgstr "¹ <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3628(html/h2)
 msgid "Chun Hung Huang and Emily Chen"
@@ -14896,7 +14901,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(p/a)
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(p/a)
 msgid "Beijing"
@@ -14908,7 +14913,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(p/a)
 msgid "gnome3tw.jpg"
-msgstr ""
+msgstr "gnome3tw.jpg"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(p/a)
 msgid "Convore"
@@ -14933,7 +14938,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3632(p/a)
 msgid "Vala"
-msgstr ""
+msgstr "Vala"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3632(p/a)
 msgid "OSSF"
@@ -14960,7 +14965,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3636(li/a)
 msgid "Python-GTK"
-msgstr ""
+msgstr "Python-GTK"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3636(ul/li)
 msgid "2011/1 <_:a-1/>"
@@ -15012,7 +15017,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3650(html/h2)
 msgid "Alejandro Piñeiro Iglesias and Joanmarie Diggs"
-msgstr ""
+msgstr "Alejandro Piñeiro Iglesias y Joanmarie Diggs"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3651(html/p)
 msgid "<strong>Hackfest</strong>"
@@ -15028,7 +15033,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3652(p/a)
 msgid "Xunta de Galicia"
-msgstr ""
+msgstr "Xunta de Galicia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3652(html/p)
 msgid ""
@@ -15283,7 +15288,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3711(p/a)
 msgid "gnome.org"
-msgstr ""
+msgstr "gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3711(html/p)
 msgid ""
@@ -15302,7 +15307,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3712(p/a)
 msgid "developer.gnome.org"
-msgstr ""
+msgstr "developer.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3712(html/p)
 msgid ""
@@ -15840,7 +15845,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3830(li/a)
 msgid "news-test.gnome.org"
-msgstr ""
+msgstr "news-test.gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3830(ul/li)
 msgid ""
@@ -16389,7 +16394,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3942(p/a)
 msgid "Collabora"
-msgstr ""
+msgstr "Collabora"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3942(p/a)
 msgid "29 participants"
@@ -16521,7 +16526,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3957(p/a)
 msgid "https://live.gnome.org/GnomeWomen/OutreachProgram2011/Accomplishments"
-msgstr ""
+msgstr "https://live.gnome.org/GnomeWomen/OutreachProgram2011/Accomplishments"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3957(html/p)
 msgid ""

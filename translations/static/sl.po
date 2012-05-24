@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-05-24 15:09+0100\n"
+"PO-Revision-Date: 2012-05-24 15:24+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "Language: \n"
@@ -199,14 +199,12 @@ msgid "Latest Release"
 msgstr "Oznaka objave:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:74(post/title)
-#, fuzzy
 msgid "Planet GNOME"
-msgstr "GNOME Pasjansa"
+msgstr "Planet GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:77(post/title)
-#, fuzzy
 msgid "GNOME Journal"
-msgstr "_Dnevnik"
+msgstr "GNOME Journal"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:80(post/title)
 #, fuzzy
@@ -312,14 +310,12 @@ msgid "Find out how you can get involved in GNOME"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:122(post/title)
-#, fuzzy
 msgid "GNOME 3"
-msgstr "GNOME"
+msgstr "GNOME 3"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:124(p/img@title)
-#, fuzzy
 msgid "gnome-3.4-940x400"
-msgstr "GNOME Pasjansa"
+msgstr "gnome-3.4-940x400"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:125(html/p)
 msgid "Get things done with ease, comfort and control."
@@ -414,14 +410,12 @@ msgid "The GNOME Project is a diverse international community which involves hun
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:203(html/h2)
-#, fuzzy
 msgid "So, what do you want to do?"
-msgstr "Kaj želite uskladiti?"
+msgstr "Na kakšen način bi želeli sodelovati?"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:205(div/h3)
-#, fuzzy
 msgid "Write"
-msgstr "Zapiši"
+msgstr "Pisati"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:206(div/p)
 msgid "Have a good command of the English language? GNOME is always looking for writers, whether it is to create user and developer guides for our software, write content for the GNOME websites, produce articles for the GNOME Journal, or just to blog (and microblog!) about the great stuff that is always happening in GNOME."
@@ -437,9 +431,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:211(div/h3)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:519(h2/a)
-#, fuzzy
 msgid "Design"
-msgstr "Snovanje je končano"
+msgstr "Oblikovati"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:212(div/p)
 msgid "Graphics and user interface design are an important part of the GNOME Project. You can help to design user interfaces and in so doing make GNOME software easy, satisfying and efficient to use. You can also assist our designers in the creation of icons, websites, clothing and other merchandise."
@@ -450,9 +443,8 @@ msgid "Get involved in GNOME Design"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:217(div/h3)
-#, fuzzy
 msgid "Translate"
-msgstr "_Prevedi"
+msgstr "Prevajati"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:218(div/p)
 msgid "The GNOME Project is proud to be available in many different languages, and this is a key part of our mission to make our software available to as many people as possible. If you have a good command of English and another language, you can participate in one of the many GNOME translation teams, so that GNOME’s software, documentation and websites can be used by people from all over the world."
@@ -463,9 +455,8 @@ msgid "Get started with translating GNOME"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:222(div/h3)
-#, fuzzy
 msgid "Code"
-msgstr "Koda"
+msgstr "Kodiranjem"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:223(div/p)
 msgid "There are many coding tasks up for grabs in GNOME, both small and large. You don’t have to be an expert to start contributing code. GNOME software is written in many different languages, so it is easy to feel right at home, and we have some incredible programmers from whom you can learn."
@@ -481,9 +472,8 @@ msgid "There are plenty of ways to get started programming for GNOME. The <_:a-1
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:228(div/h3)
-#, fuzzy
 msgid "Test"
-msgstr "Test"
+msgstr "Preizkus"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:229(div/p)
 msgid "Making high quality software requires lots of testing. Reporting errors or possible improvements is a valuable way to help with the project and is a great way to start out. If you like living dangerously, you can also run our latest development code and help to provide feedback on changes as they happen."

@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-05-24 12:31+0200\n"
+"PO-Revision-Date: 2012-05-27 12:36+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.4\n"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5(post/title)
 msgid "guadec"
@@ -44,7 +45,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:26(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:173(post/title)
 msgid "cheese"
-msgstr ""
+msgstr "cheese"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:29(post/title)
 msgid "worldmap"
@@ -61,19 +62,19 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:41(post/title)
 msgid "gimp"
-msgstr ""
+msgstr "gimp"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:44(post/title)
 msgid "inkscape"
-msgstr ""
+msgstr "inkscape"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:47(post/title)
 msgid "rhythmbox"
-msgstr ""
+msgstr "rhythmbox"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:50(post/title)
 msgid "shotwell"
-msgstr ""
+msgstr "shotwell"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:53(post/title)
 msgid "simple-scan"
@@ -81,7 +82,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:56(post/title)
 msgid "banshee"
-msgstr ""
+msgstr "banshee"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:59(post/title)
 msgid "apps-hero-shot"
@@ -237,7 +238,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:176(post/title)
 msgid "tomboy"
-msgstr ""
+msgstr "tomboy"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:179(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2879(a/img@title)
@@ -349,29 +350,29 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:264(post/title)
 msgid "canonical"
-msgstr ""
+msgstr "canonical"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:267(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3346(a/img@title)
 msgid "collabora"
-msgstr ""
+msgstr "collabora"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:270(post/title)
 msgid "debian"
-msgstr ""
+msgstr "debian"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:273(post/title)
 msgid "fsf"
-msgstr ""
+msgstr "fsf"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:276(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3348(a/img@title)
 msgid "google"
-msgstr ""
+msgstr "google"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:279(post/title)
 msgid "ibm"
-msgstr ""
+msgstr "ibm"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:282(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3347(a/img@title)
@@ -381,11 +382,11 @@ msgstr "igalia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:285(post/title)
 msgid "intel"
-msgstr ""
+msgstr "intel"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:288(post/title)
 msgid "motorola"
-msgstr ""
+msgstr "motorola"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:291(post/title)
 msgid "mozilla-foundation"
@@ -393,7 +394,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:294(post/title)
 msgid "nokia"
-msgstr ""
+msgstr "nokia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:297(post/title)
 msgid "olpc"
@@ -401,23 +402,23 @@ msgstr "olpc"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:300(post/title)
 msgid "oracle"
-msgstr ""
+msgstr "oracle"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:303(post/title)
 msgid "redhat"
-msgstr ""
+msgstr "redhat"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:306(post/title)
 msgid "sflc"
-msgstr ""
+msgstr "sflc"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:309(post/title)
 msgid "sugarlabs"
-msgstr ""
+msgstr "sugarlabs"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:312(post/title)
 msgid "suse"
-msgstr ""
+msgstr "suse"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:315(post/title)
 msgid "GNOME2009-budget-with-actuals"
@@ -778,7 +779,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:591(post/title)
 msgid "web"
-msgstr ""
+msgstr "web"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:594(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:615(post/title)
@@ -801,11 +802,11 @@ msgstr "gnome 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:609(post/title)
 msgid "gnome-3.4-600x375"
-msgstr ""
+msgstr "gnome-3.4-600x375"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:612(post/title)
 msgid "gnome-3.4-940x400"
-msgstr ""
+msgstr "gnome-3.4-940x400"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:621(post/title)
 msgid "heart_foot"
@@ -813,15 +814,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:624(post/title)
 msgid "facebook"
-msgstr ""
+msgstr "facebook"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:627(post/title)
 msgid "identica"
-msgstr ""
+msgstr "identica"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:630(post/title)
 msgid "twitter"
-msgstr ""
+msgstr "twitter"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:633(post/title)
 msgid "Gplus32"
@@ -1556,7 +1557,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1345(html/h3)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1483(html/h3)
 msgid "Availability"
-msgstr ""
+msgstr "Disponibilidad"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:789(html/p)
 msgid ""
@@ -2258,7 +2259,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:908(html/h3)
 msgid "Availability:"
-msgstr ""
+msgstr "Disponibilidad:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:910(p/a)
 msgid "http://developer.gnome.org/feature/current/"
@@ -2266,8 +2267,8 @@ msgstr "http://developer.gnome.org/feature/current/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:909(html/p)
 msgid ""
-"The GNOME Accessibility Framework is available now, please visit:<br/> <_:a-"
-"1/>"
+"The GNOME Accessibility Framework is available now, please visit:<br/> <_:"
+"a-1/>"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:912(p/a)
@@ -2282,7 +2283,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:913(html/h3)
 msgid "Documentation:"
-msgstr ""
+msgstr "Documentación:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:915(p/a)
 msgid "http://library.gnome.org/devel/atk/stable/"
@@ -2325,7 +2326,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2097(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2298(html/h2)
 msgid "About GNOME"
-msgstr ""
+msgstr "Acerca de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:920(html/p)
 msgid ""
@@ -3774,7 +3775,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1210(p/a)
 msgid "Table of Contents"
-msgstr ""
+msgstr "Tabla de contenido"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1211(html/h3)
 msgid "ABOUT THE AUTHOR"
@@ -5537,8 +5538,8 @@ msgid ""
 "Sponsors include industry leaders like Fluendo, HP, IBM, Novell, Red Hat, "
 "and Sun. GNOME is supported on a variety of platforms, including GNU/Linux "
 "(more commonly referred to as Linux), Solaris Operating Environment, HP-UX, "
-"Unix, BSD and Apple’s Darwin. More information on GNOME can be found at <_:a-"
-"1/>."
+"Unix, BSD and Apple’s Darwin. More information on GNOME can be found at <_:"
+"a-1/>."
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1598(html/p)
@@ -6292,8 +6293,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1740(html/p)
 msgid ""
-"Individuals interested in participating in the program should check out<_:a-"
-"1/>. More information about the program may be found at the same location."
+"Individuals interested in participating in the program should check out<_:"
+"a-1/>. More information about the program may be found at the same location."
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1742(html/p)
@@ -9341,8 +9342,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2514(ul/li)
 msgid ""
 "To promote free online web services, the GNOME Foundation announced an alpha "
-"for Tomboy Online on September 17th, 2010. GUADEC 2010 in The Hague (July 26-"
-"30) was a huge success with a terrific venue. This GUADEC provided a much "
+"for Tomboy Online on September 17th, 2010. GUADEC 2010 in The Hague (July "
+"26-30) was a huge success with a terrific venue. This GUADEC provided a much "
 "needed opportunity to plan for the upcoming GNOME 3 release. At this GUADEC "
 "it was announced that the release date for GNOME 3 slipped until April 2011. "
 "The consensus of the GNOME community was that this rescheduling will "
@@ -13214,8 +13215,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3256(html/p)
 msgid ""
-"Nine OPW interns attended the Desktop Summit in Berlin, Germany on August 6-"
-"12. Some of them did lightning talks about their work during the <_:a-1/"
+"Nine OPW interns attended the Desktop Summit in Berlin, Germany on August "
+"6-12. Some of them did lightning talks about their work during the <_:a-1/"
 "> session. The GNOME women’s dinner was attended by 23 women. There was also "
 "a <_:a-2/> at the conference."
 msgstr ""
@@ -13326,8 +13327,8 @@ msgstr ""
 msgid ""
 "There is a number of GNOME Users Groups (GUG) worldwide that actively "
 "promoted GNOME this quarter. One of them is the group in Philippines. This "
-"GUG is composed of people who regularly organize FOSS events like annual<_:a-"
-"1/> in different parts of the country. They regularly advocate GNOME in "
+"GUG is composed of people who regularly organize FOSS events like annual<_:"
+"a-1/> in different parts of the country. They regularly advocate GNOME in "
 "these events along with KahelOS, a GNOME based GNU/Linux distribution "
 "championed by members of this group. This quarter, they also <_:a-2/> the "
 "release of GNOME 3.2 <_:a-3/> around the world."
@@ -13718,8 +13719,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3359(html/p)
 msgid ""
-"The core organizing team for GUADEC 2012 will consists of members from <_:a-"
-"1/>, a nonprofit association that promotes and spreads Free Software in "
+"The core organizing team for GUADEC 2012 will consists of members from <_:"
+"a-1/>, a nonprofit association that promotes and spreads Free Software in "
 "Spain, <_:a-2/>, an organization dedicated to GNOME for Spanish speakers, <_:"
 "a-3/>, a GNU/Linux Users and Developers Group, <_:a-4/> and the <_:a-5/>. "
 "All of the core team members are dedicated to free and open source software, "
@@ -14921,8 +14922,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(html/p)
 msgid ""
-"A 2011 GNOME 3 Launch Party was organized by the GNOME Users Groups of <_:a-"
-"1/>, <_:a-2/>, and <_:a-3/>. The Users Groups used video streaming so that "
+"A 2011 GNOME 3 Launch Party was organized by the GNOME Users Groups of <_:"
+"a-1/>, <_:a-2/>, and <_:a-3/>. The Users Groups used video streaming so that "
 "five cities (Beijing, Hong Kong, Taipei, Taichung, and Kaohsiung) were able "
 "to celebrate the GNOME 3 Launch Party at the same time. The groups created "
 "a <_:a-4/> on justin.tv showing how to do this for other teams. The live "
@@ -15750,8 +15751,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3814(html/p)
 msgid ""
 "In 2011 the annual ‘Boston’ Summit was moved to Montréal, Canada. Held at "
-"the École Polytechnique de Montréal, in the Pavillons Lassonde, October 8-"
-"10th. Since the summit occurred just after the release of GNOME 3.2, talks "
+"the École Polytechnique de Montréal, in the Pavillons Lassonde, October "
+"8-10th. Since the summit occurred just after the release of GNOME 3.2, talks "
 "focused on upcoming features in GNOME 3.3/3.4, dovetailing with discussions "
 "on the mailing lists. Presentations included those on Baserock by Lars "
 "Wirzenius &amp; jhbuild by Colin Walters, as well as others on strategy, the "

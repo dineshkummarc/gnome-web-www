@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-05-27 12:28+0200\n"
+"PO-Revision-Date: 2012-06-09 11:45+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:99(div/h2)
 msgid "Collaboration and meritocracy"
-msgstr ""
+msgstr "Colaboración y meritocracia"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:100(div/p)
 msgid ""
@@ -381,7 +381,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:170(div/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:390(div/h2)
 msgid "Batteries included"
-msgstr ""
+msgstr "Pilas incluidas"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:171(div/p)
 msgid ""
@@ -432,7 +432,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:203(html/h2)
 msgid "So, what do you want to do?"
-msgstr ""
+msgstr "¿Qué quiere hacer?"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:205(div/h3)
 msgid "Write"
@@ -449,11 +449,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:207(p/a)
 msgid "Get started with writing documentation"
-msgstr ""
+msgstr "Empezar a escribir documentación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:208(p/a)
 msgid "Get involved in the marketing team"
-msgstr ""
+msgstr "Involucrarse en el equipo de marketing"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:211(div/h3)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:519(h2/a)
@@ -488,7 +488,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:219(p/a)
 msgid "Get started with translating GNOME"
-msgstr ""
+msgstr "Empezar a traducir GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:222(div/h3)
 msgid "Code"
@@ -504,13 +504,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:224(p/a)
 msgid "GNOME Love initiative"
-msgstr "Iniciativa GNOME Love"
+msgstr "iniciativa GNOME Love"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:224(div/p)
 msgid ""
 "There are plenty of ways to get started programming for GNOME. The <_:a-1/> "
 "provides advice for newcomers."
 msgstr ""
+"Hay muchas maneras de empezar a programar en GNOME. La <_:a-1/> ofrece "
+"consejos para los novatos."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:228(div/h3)
 msgid "Test"
@@ -532,6 +534,8 @@ msgstr "JHBuild, la herramienta de construcción de GNOME"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
 msgstr ""
+"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:"
+"a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:233(div/h3)
 msgid "Administrate"
@@ -547,7 +551,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:235(p/a)
 msgid "Start helping with sysadmin tasks"
-msgstr ""
+msgstr "Empezar a ayudar con tareas de administración de sistemas"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:238(html/h2)
 msgid "More information"
@@ -555,7 +559,7 @@ msgstr "Más información"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:240(li/a)
 msgid "teams page"
-msgstr "páginas de equipos"
+msgstr "página de equipos"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:240(ul/li)
 msgid ""
@@ -620,11 +624,11 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:719(p/a)
 msgid "Become a GNOME Foundation Member"
-msgstr ""
+msgstr "Hacerse miembro de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(p/a)
 msgid "Read the list of Foundation Members"
-msgstr ""
+msgstr "Leer la lista de miembros de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(div/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(div/p)
@@ -709,7 +713,7 @@ msgstr "Red Hat"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:484(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:767(ul/li)
 msgid "Software Freedom Law Center"
-msgstr ""
+msgstr "Software Freedom Law Center"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:306(a/img@alt)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:768(ul/li)
@@ -724,7 +728,7 @@ msgstr "SUSE"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:311(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:484(p/a)
 msgid "Wilson Sonsini Goodrich &amp; Rosati"
-msgstr ""
+msgstr "Wilson Sonsini Goodrich &amp; Rosati"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:311(html/p)
 msgid "Pro bono legal services provided by <_:a-1/> and the <_:a-2/>."
@@ -930,7 +934,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:407(div/h2)
 msgid "User help"
-msgstr ""
+msgstr "Ayuda del usuario"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:408(div/p)
 msgid ""
@@ -941,7 +945,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:410(li/a)
 msgid "an extensive library of help documentation"
-msgstr ""
+msgstr "una amplia biblioteca de documentación de ayuda"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:410(ul/li)
 msgid ""
@@ -991,7 +995,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:415(p/a)
 msgid "GNOME Foundation site"
-msgstr ""
+msgstr "Página web de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:415(div/p)
 msgid ""
@@ -1039,7 +1043,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:421(div/h2)
 msgid "Reporting security issues"
-msgstr ""
+msgstr "Informar de problemas de seguridad"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(p/a)
 msgid "security@gnome.org"
@@ -1066,7 +1070,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(p/a)
 msgid "install GNOME inside a distribution"
-msgstr ""
+msgstr "instalar GNOME dentro de una distribución"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(div/p)
 msgid ""
@@ -1077,7 +1081,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:434(div/h2)
 msgid "Understanding the versioning scheme"
-msgstr ""
+msgstr "Comprender el sistema de versiones"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:435(div/p)
 msgid ""
@@ -1116,7 +1120,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:439(div/h2)
 msgid "Use a Build tool"
-msgstr ""
+msgstr "Usar una herramienta de construcción"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:440(p/a)
 msgid "JHBuild"
@@ -1145,15 +1149,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(p/a)
 msgid "Discover more about Git"
-msgstr ""
+msgstr "Descubrir más sobre Git"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(p/a)
 msgid "Explore the GNOME source code online"
-msgstr ""
+msgstr "Explorar el código fuente de GNOME en línea"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:445(div/a)
 msgid "why not join and help us"
-msgstr ""
+msgstr "por qué no se une a nosotros y colabora"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:445(div/div)
 msgid ""
@@ -1167,7 +1171,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(p/a)
 msgid "contact"
-msgstr ""
+msgstr "contactar"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(html/p)
 msgid ""
@@ -1364,11 +1368,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(li/a@title)
 msgid "The GNOME Store"
-msgstr ""
+msgstr "La tienda de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(li/a)
 msgid "the GNOME Store"
-msgstr ""
+msgstr "la tienda de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(ul/li)
 msgid ""
@@ -1458,7 +1462,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:525(h2/a)
 msgid "System administration"
-msgstr ""
+msgstr "Administración de sistemas"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:526(html/p)
 msgid ""
@@ -1511,7 +1515,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:544(post/title)
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:549(html/p)
 msgid "Press releases goes here."
@@ -1535,6 +1539,7 @@ msgstr "Imagen «live» de GNOME 3.4"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a)
 msgid "<span style=\"color: #ff6600;\">Live Images Available Here</span>"
 msgstr ""
+"<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(html/h2)
 msgid "Try GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
@@ -1553,18 +1558,25 @@ msgid ""
 "Run <code>dmesg</code> in a terminal: this will give you the location of the "
 "stick in square brackets, such as <code>sdb</code>"
 msgstr ""
+"Ejecute <code>dmesg</code> en una terminal: esto le dará la ubicación del "
+"dispositivo entre corchetes, por ejemplo <code>sdb</code>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:563(ul/li)
 msgid ""
 "To write the image, run <code>sudo dd if=GNOME-3.4.iso of=/dev/DRIVE bs=8M "
 "conv=fsync</code>, replacing DRIVE with the location"
 msgstr ""
+"Para grabar la imagen, ejecute <code>sudo dd if=GNOME-3.4.iso of=/dev/"
+"DISPOSITIVO bs=8M conv=fsync</code>, reemplazando DISPOSITIVO por la "
+"ubicación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:564(ul/li)
 msgid ""
 "Once the write operation has finished, you can reboot with the USB drive "
 "inserted (you may have to specify the boot device on startup)"
 msgstr ""
+"Cuando la operación termine, puede reiniciar el equipo con el dispositivo "
+"USB conectado (puede necesitar especificar el dispositivo al inicio)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:567(html/h2)
 msgid "Distributions"
@@ -1575,6 +1587,8 @@ msgid ""
 "Some of the most popular distributions ship GNOME 3 as part of their next "
 "releases."
 msgstr ""
+"Algunas de las distribuciones más populares incluyen GNOME 3 como parte de "
+"sus próxima publicaciones."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:570(h3/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:602(p/a)
@@ -1596,7 +1610,7 @@ msgstr "openSUSE"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:575(div/p)
 msgid "GNOME 3 can be selected in the latest version of <_:a-1/>."
-msgstr ""
+msgstr "GNOME 3 se puede seleccionar en la última versión de <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:578(h3/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:602(p/a)
@@ -1605,11 +1619,11 @@ msgstr "Ubuntu"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:579(p/a)
 msgid "click away"
-msgstr ""
+msgstr "una pulsación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:579(div/p)
 msgid "From Ubuntu 11.10 onwards, GNOME 3 is just a <_:a-1/>."
-msgstr ""
+msgstr "Desde Ubuntu 11.10 en adelante, GNOME 3 sólo está a <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:581(p/a)
 msgid "Arch Linux"
@@ -1637,11 +1651,11 @@ msgstr "Explorar el código de desarrollo"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:587(li/a)
 msgid "Download the code for our latest release"
-msgstr ""
+msgstr "Descargar el código de la última versión"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:588(li/a)
 msgid "Use the build tool"
-msgstr ""
+msgstr "Usar la herramienta de construcción"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:594(post/title)
 msgid "start-temp"
@@ -1671,11 +1685,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:599(html/h2)
 msgid "Installing GNOME"
-msgstr ""
+msgstr "Instalar GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:600(html/h3)
 msgid "Stable GNOME"
-msgstr ""
+msgstr "GNOME estable"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:601(html/p)
 msgid ""
@@ -1726,7 +1740,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:604(html/h3)
 msgid "Development GNOME"
-msgstr ""
+msgstr "Desarrollo de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:605(html/p)
 msgid ""
@@ -1771,7 +1785,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:614(post/title)
 msgid "Become a Friend of GNOME"
-msgstr ""
+msgstr "Hacerse amigo de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:618(post/title)
 msgid "Testimonials"
@@ -1779,7 +1793,7 @@ msgstr "Testimonios"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:621(html/h2)
 msgid "Robert Cole appreciates the accessibility of GNOME"
-msgstr ""
+msgstr "Robert Cole aprecia la accesibilidad de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:622(html/p)
 msgid ""
@@ -1959,7 +1973,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:707(post/title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon Germany"
-msgstr ""
+msgstr "Amazon Alemania"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -1978,7 +1992,7 @@ msgstr "de"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon France"
-msgstr ""
+msgstr "Amazon Francia"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -1997,7 +2011,7 @@ msgstr "fr"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon Japan"
-msgstr ""
+msgstr "Amazon Japón"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -2016,7 +2030,7 @@ msgstr "jp"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon UK"
-msgstr ""
+msgstr "Amazon Reino Unido"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -2034,7 +2048,7 @@ msgstr "uk"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon US"
-msgstr ""
+msgstr "Amazon EE.UU."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -2050,15 +2064,17 @@ msgid ""
 "Select one of these Amazon Stores: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:"
 "a-5/> <_:a-6/>"
 msgstr ""
+"Seleccione una de estas tiendas de Amazon: <_:a-1/>    <_:a-2/> <_:a-3/> <_:"
+"a-4/> <_:a-5/> <_:a-6/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:654(post/title)
 msgid "Other Ways to Donate"
-msgstr ""
+msgstr "Otras formas de donar"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:656(html/h4)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:847(html/h4)
 msgid "Pay by Check"
-msgstr ""
+msgstr "Pago con cheque"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:657(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:848(html/p)
@@ -2170,6 +2186,8 @@ msgid ""
 "The GNOME Foundation also publishes <_:a-1/> on its activities each quarter "
 "and each year."
 msgstr ""
+"La Fundación GNOME también publica <_:a-1/> de sus actividades cada "
+"trimestre y cada año."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:735(p/a)
 msgid "Minutes wiki page"
@@ -2321,11 +2339,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(li/a)
 msgid "subscription"
-msgstr ""
+msgstr "suscripción"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(ul/li)
 msgid "<_:a-1/> (Requires <_:a-2/>)"
-msgstr ""
+msgstr "<_:a-1/> (Requiere <_:a-2/>)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:790(li/a)
 msgid "Foundation Announce mailing list"
@@ -2433,7 +2451,7 @@ msgstr "2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:824(li/a)
 msgid "2009 Annual Report"
-msgstr ""
+msgstr "Informe anual de 2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:824(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:827(ul/li)
@@ -2460,7 +2478,7 @@ msgstr "2008"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:831(li/a)
 msgid "2008 Annual Report"
-msgstr ""
+msgstr "Informe anual de 2008"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:833(html/h3)
 msgid "2007"
@@ -2468,7 +2486,7 @@ msgstr "2007"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(li/a)
 msgid "2007 Annual Report"
-msgstr ""
+msgstr "Informe anual de 2007"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(li/a)
 msgid "order a hard copy"
@@ -2484,11 +2502,11 @@ msgstr "2006"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:839(li/a)
 msgid "2006 Annual Report"
-msgstr ""
+msgstr "Informe anual de 2006"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:845(post/title)
 msgid "Other ways to donate"
-msgstr ""
+msgstr "Otras formas de donar"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:866(post/title)
 msgid "Thank You!"
